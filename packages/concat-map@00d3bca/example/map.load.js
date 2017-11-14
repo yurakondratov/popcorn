@@ -1,0 +1,1 @@
+montageDefine("00d3bca","example/map",{dependencies:["../"],factory:function(e,n,a){var c=e("../"),o=[1,2,3,4,5,6],i=c(o,function(e){return e%2?[e-.1,e,e+.1]:[]});console.dir(i)}});
