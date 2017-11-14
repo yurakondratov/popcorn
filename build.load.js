@@ -1,1 +1,1 @@
-montageDefine("da2f0df","build",{dependencies:["path","mop"],factory:function(e,n,o){"use strict";const i=e("path"),t=e("mop");var c=i.resolve(__dirname),r=i.resolve(__dirname,"./builds");t(c,{minify:!0,buildLocation:r}).then(function(e){console.log(e)},function(e){console.error(e)})}});
+montageDefine("08021a5","build",{dependencies:["path","mop"],factory:function(e,n,o){"use strict";const i=e("path"),t=e("mop");var c=i.resolve(__dirname),r=i.resolve(__dirname,"./builds");t(c,{minify:!0,buildLocation:r}).then(function(e){console.log(e)},function(e){console.error(e)})}});
