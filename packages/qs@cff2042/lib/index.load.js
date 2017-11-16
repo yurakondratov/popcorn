@@ -1,1 +1,0 @@
-montageDefine("cff2042","lib/index",{dependencies:["./stringify","./parse","./formats"],factory:function(e,r,s){"use strict";var i=e("./stringify"),t=e("./parse"),f=e("./formats");s.exports={formats:f,parse:t,stringify:i}}});

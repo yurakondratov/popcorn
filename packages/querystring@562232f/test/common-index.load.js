@@ -1,1 +1,0 @@
-montageDefine("562232f","test/common-index",{dependencies:["test","./index"],factory:function(e,n,t){"use strict";e("test").run(e("./index"))}});

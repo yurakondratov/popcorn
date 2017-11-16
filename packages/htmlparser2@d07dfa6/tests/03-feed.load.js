@@ -1,1 +1,0 @@
-montageDefine("d07dfa6","tests/03-feed",{dependencies:["./test-helper.js","../lib/FeedHandler.js","fs"],factory:function(e,n,t){var s=e("./test-helper.js"),d=e("../lib/FeedHandler.js"),r=e("fs"),i={xmlMode:!0};n.dir="Feeds",n.test=function(e,n){var t=new d(function(e,t){e?n(e,0):n(null,t)}),l=r.readFileSync(__dirname+"/Documents/"+e.file).toString();s.writeToParser(t,i,l)}}});

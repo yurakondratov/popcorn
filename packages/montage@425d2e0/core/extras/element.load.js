@@ -1,1 +1,0 @@
-montageDefine("425d2e0","core/extras/element",{dependencies:[],factory:function(e,n,t){"undefined"==typeof Element||Element.isElement||Object.defineProperty(Element,"isElement",{value:function(e){return!(!e||1!==e.nodeType)},writable:!0,configurable:!0})}});
