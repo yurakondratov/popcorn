@@ -1,1 +1,0 @@
-montageDefine("147db85","ui/text-area.reel/text-area",{dependencies:["montage/ui/base/abstract-text-area"],factory:function(e,a,t){var r=e("montage/ui/base/abstract-text-area").AbstractTextArea;a.TextArea=r.specialize({hasTemplate:{value:!0},constructor:{value:function(){this["super"]()}}})}});
