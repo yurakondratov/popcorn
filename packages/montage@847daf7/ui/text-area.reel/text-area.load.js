@@ -1,1 +1,0 @@
-montageDefine("847daf7","ui/text-area.reel/text-area",{dependencies:["ui/text-input"],factory:function(e,t,a){var n=e("ui/text-input").TextInput,u=t.TextArea=n.specialize({hasTemplate:{value:!1}});u.addAttributes({cols:null,rows:null,wrap:null})}});
