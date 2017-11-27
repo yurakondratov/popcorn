@@ -1,0 +1,1 @@
+montageDefine("5f1e513","lib/minify-javascript",{dependencies:["uglify-js","./processes"],factory:function(n,e,i){function f(n){return s.minify(n,{fromString:!0,warnings:!1}).code}var s=n("uglify-js"),c=n("./processes");s.AST_Node.warn_function=null,i.exports=f,f.async=function(n,e){c.execute("uglify",n,e)}}});
