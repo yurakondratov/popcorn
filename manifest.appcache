@@ -5275,8 +5275,6 @@ packages/url@8f5b8e8/util.js
 packages/url@8f5b8e8/util.load.js
 package.json
 package.json.load.js
-sw.js
-sw.load.js
 ui/categories.reel/categories.css
 ui/categories.reel/categories.html
 ui/categories.reel/categories.html.load.js
