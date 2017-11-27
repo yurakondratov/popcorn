@@ -1,1 +1,0 @@
-montageDefine("e7d31aa","internal/baseForOwn",{dependencies:["./baseFor","../object/keys"],factory:function(e,n,o){function a(e,n){return r(e,n,t)}var r=e("./baseFor"),t=e("../object/keys");o.exports=a}});

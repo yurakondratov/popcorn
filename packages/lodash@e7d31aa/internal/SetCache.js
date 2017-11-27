@@ -1,1 +1,0 @@
-function SetCache(e){var t=e?e.length:0;for(this.data={hash:nativeCreate(null),set:new Set};t--;)this.push(e[t])}var cachePush=require("./cachePush"),isNative=require("../lang/isNative"),Set=isNative(Set=global.Set)&&Set,nativeCreate=isNative(nativeCreate=Object.create)&&nativeCreate;SetCache.prototype.push=cachePush,module.exports=SetCache;

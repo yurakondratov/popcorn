@@ -1,1 +1,0 @@
-function baseIsEqual(e,u,a,s,l,n){if(e===u)return 0!==e||1/e==1/u;var t=typeof e,o=typeof u;return"function"!=t&&"object"!=t&&"function"!=o&&"object"!=o||null==e||null==u?e!==e&&u!==u:baseIsEqualDeep(e,u,baseIsEqual,a,s,l,n)}var baseIsEqualDeep=require("./baseIsEqualDeep");module.exports=baseIsEqual;

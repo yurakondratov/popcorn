@@ -1,1 +1,0 @@
-function _echo(){var o=[].slice.call(arguments,0);return console.log.apply(this,o),common.ShellString(o.join(" "))}var common=require("./common");module.exports=_echo;

@@ -1,1 +1,0 @@
-montageDefine("e7d31aa","internal/toIterable",{dependencies:["./getLength","./isLength","../lang/isObject","../object/values"],factory:function(e,t,n){function a(e){return null==e?[]:g(c(e))?i(e)?e:Object(e):l(e)}var c=e("./getLength"),g=e("./isLength"),i=e("../lang/isObject"),l=e("../object/values");n.exports=a}});

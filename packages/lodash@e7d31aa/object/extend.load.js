@@ -1,1 +1,0 @@
-montageDefine("e7d31aa","object/extend",{dependencies:["./assign"],factory:function(e,n,a){a.exports=e("./assign")}});

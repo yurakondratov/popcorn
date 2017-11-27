@@ -1,1 +1,0 @@
-function baseToString(n){return"string"==typeof n?n:null==n?"":n+""}module.exports=baseToString;

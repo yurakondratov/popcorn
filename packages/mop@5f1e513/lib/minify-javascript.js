@@ -1,1 +1,0 @@
-function uglify(e){return UGLIFY.minify(e,{fromString:!0,warnings:!1}).code}var UGLIFY=require("uglify-js"),processes=require("./processes");UGLIFY.AST_Node.warn_function=null,module.exports=uglify,uglify.async=function(e,r){processes.execute("uglify",e,r)};

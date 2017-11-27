@@ -1,1 +1,0 @@
-montageDefine("e7d31aa","lang/isFinite",{dependencies:["./isNative"],factory:function(e,i,n){var t=e("./isNative"),a=global.isFinite,o=t(o=Number.isFinite)&&o,r=o||function(e){return"number"==typeof e&&a(e)};n.exports=r}});

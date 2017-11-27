@@ -1,1 +1,0 @@
-function createPartial(r){var e=restParam(function(a,t){var l=replaceHolders(t,e.placeholder);return createWrapper(a,r,null,t,l)});return e}var createWrapper=require("./createWrapper"),replaceHolders=require("./replaceHolders"),restParam=require("../function/restParam");module.exports=createPartial;

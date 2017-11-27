@@ -1,1 +1,0 @@
-function remove(e,a,r){var l=[];if(!e||!e.length)return l;var t=-1,u=[],n=e.length;for(a=baseCallback(a,r,3);++t<n;){var b=e[t];a(b,t,e)&&(l.push(b),u.push(t))}return basePullAt(e,u),l}var baseCallback=require("../internal/baseCallback"),basePullAt=require("../internal/basePullAt");module.exports=remove;

@@ -1,1 +1,0 @@
-montageDefine("e7d31aa","collection/pluck",{dependencies:["./map","../utility/property"],factory:function(e,t,n){function i(e,t){return o(e,p(t))}var o=e("./map"),p=e("../utility/property");n.exports=i}});

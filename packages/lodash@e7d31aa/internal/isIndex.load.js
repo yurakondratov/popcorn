@@ -1,1 +1,0 @@
-montageDefine("e7d31aa","internal/isIndex",{dependencies:[],factory:function(n,e,t){function a(n,e){return n=+n,e=null==e?i:e,n>-1&&n%1==0&&n<e}var i=Math.pow(2,53)-1;t.exports=a}});

@@ -1,1 +1,0 @@
-function _cd(r,o){o||common.error("directory not specified"),fs.existsSync(o)||common.error("no such file or directory: "+o),fs.statSync(o).isDirectory()||common.error("not a directory: "+o),process.chdir(o)}var fs=require("fs"),common=require("./common");module.exports=_cd;

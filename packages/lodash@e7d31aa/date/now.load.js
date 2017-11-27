@@ -1,1 +1,0 @@
-montageDefine("e7d31aa","date/now",{dependencies:["../lang/isNative"],factory:function(e,n,a){var t=e("../lang/isNative"),i=t(i=Date.now)&&i,o=i||function(){return(new Date).getTime()};a.exports=o}});

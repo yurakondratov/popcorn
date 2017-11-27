@@ -1,1 +1,0 @@
-montageDefine("b21e930","src/utils",{dependencies:[],factory:function(n,t,e){"use strict";function r(n,t){var e={};return n.forEach(function(n){e[n]=1}),t?function(n){return 1===e[n.toLowerCase()]}:function(n){return 1===e[n]}}t.createMap=r,t.createMapFromString=function(n,t){return r(n.split(/,/),t)}}});

@@ -1,1 +1,0 @@
-montageDefine("e7d31aa","internal/extremumBy",{dependencies:["./baseEach"],factory:function(e,n,a){function r(e,n,a){var r=a?c:I,u=r,N=u;return t(e,function(e,t,I){var c=n(e,t,I);((a?c<u:c>u)||c===r&&c===N)&&(u=c,N=e)}),N}var t=e("./baseEach"),I=Number.NEGATIVE_INFINITY,c=Number.POSITIVE_INFINITY;a.exports=r}});

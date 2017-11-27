@@ -1,1 +1,0 @@
-function baseRandom(o,a){return o+floor(nativeRandom()*(a-o+1))}var floor=Math.floor,nativeRandom=Math.random;module.exports=baseRandom;

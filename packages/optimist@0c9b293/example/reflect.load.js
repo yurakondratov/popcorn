@@ -1,1 +1,0 @@
-montageDefine("0c9b293","example/reflect",{dependencies:["optimist"],factory:function(e,i,t){console.dir(e("optimist").argv)}});

@@ -1,1 +1,0 @@
-montageDefine("e7d31aa","math/min",{dependencies:["../internal/arrayMin","../internal/createExtremum"],factory:function(e,n,a){var r=e("../internal/arrayMin"),t=e("../internal/createExtremum"),i=t(r,!0);a.exports=i}});

@@ -1,1 +1,0 @@
-for(var identifierStartTable=[],i=0;i<128;i++)identifierStartTable[i]=36===i||i>=65&&i<=90||95===i||i>=97&&i<=122;for(var identifierPartTable=[],i=0;i<128;i++)identifierPartTable[i]=identifierStartTable[i]||i>=48&&i<=57;module.exports={asciiIdentifierStartTable:identifierStartTable,asciiIdentifierPartTable:identifierPartTable};

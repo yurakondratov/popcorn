@@ -1,1 +1,0 @@
-function baseFunctions(n,i){for(var o=-1,r=i.length,t=-1,u=[];++o<r;){var e=i[o];isFunction(n[e])&&(u[++t]=e)}return u}var isFunction=require("../lang/isFunction");module.exports=baseFunctions;

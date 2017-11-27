@@ -1,1 +1,0 @@
-exports.translate=function(r){return(new CSSOTranslator).translate(r)},exports.translator=function(){return new CSSOTranslator};

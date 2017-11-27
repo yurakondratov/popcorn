@@ -1,1 +1,0 @@
-montageDefine("e7d31aa","lang/isObject",{dependencies:[],factory:function(e,n,t){function o(e){var n=typeof e;return"function"==n||!!e&&"object"==n}t.exports=o}});

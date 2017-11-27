@@ -1,1 +1,0 @@
-montageDefine("0c9b293","test/_/bin",{dependencies:["../../index"],factory:function(e,n,i){var o=e("../../index").argv;console.log(JSON.stringify(o._))}});

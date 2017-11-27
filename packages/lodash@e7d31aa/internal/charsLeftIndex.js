@@ -1,1 +1,0 @@
-function charsLeftIndex(e,r){for(var n=-1,t=e.length;++n<t&&r.indexOf(e.charAt(n))>-1;);return n}module.exports=charsLeftIndex;

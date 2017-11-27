@@ -1,1 +1,0 @@
-montageDefine("e7d31aa","lang/isArguments",{dependencies:["../internal/isLength","../internal/isObjectLike"],factory:function(e,n,t){function i(e){var n=a(e)?e.length:void 0;return r(n)&&s.call(e)==o}var r=e("../internal/isLength"),a=e("../internal/isObjectLike"),o="[object Arguments]",c=Object.prototype,s=c.toString;t.exports=i}});

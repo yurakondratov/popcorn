@@ -1,1 +1,0 @@
-function where(e,r){return filter(e,baseMatches(r))}var baseMatches=require("../internal/baseMatches"),filter=require("./filter");module.exports=where;

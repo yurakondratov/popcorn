@@ -1,1 +1,0 @@
-function rebaseFrom(e){return void 0===e||!!e}module.exports=rebaseFrom;

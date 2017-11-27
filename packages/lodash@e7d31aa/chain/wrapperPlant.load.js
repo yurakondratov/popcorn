@@ -1,1 +1,0 @@
-montageDefine("e7d31aa","chain/wrapperPlant",{dependencies:["../internal/baseLodash","../internal/wrapperClone"],factory:function(a,e,n){function r(a){for(var e,n=this;n instanceof p;){var r=t(n);e?_.__wrapped__=r:e=r;var _=r;n=n.__wrapped__}return _.__wrapped__=a,e}var p=a("../internal/baseLodash"),t=a("../internal/wrapperClone");n.exports=r}});

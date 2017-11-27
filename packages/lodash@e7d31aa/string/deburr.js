@@ -1,1 +1,0 @@
-function deburr(e){return e=baseToString(e),e&&e.replace(reLatin1,deburrLetter).replace(reComboMark,"")}var baseToString=require("../internal/baseToString"),deburrLetter=require("../internal/deburrLetter"),reComboMark=/[\u0300-\u036f\ufe20-\ufe23]/g,reLatin1=/[\xc0-\xd6\xd8-\xde\xdf-\xf6\xf8-\xff]/g;module.exports=deburr;

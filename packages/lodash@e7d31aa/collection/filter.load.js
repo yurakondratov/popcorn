@@ -1,1 +1,0 @@
-montageDefine("e7d31aa","collection/filter",{dependencies:["../internal/arrayFilter","../internal/baseCallback","../internal/baseFilter","../lang/isArray"],factory:function(a,e,r){function n(a,e,r){var n=c(a)?l:t;return e=i(e,r,3),n(a,e)}var l=a("../internal/arrayFilter"),i=a("../internal/baseCallback"),t=a("../internal/baseFilter"),c=a("../lang/isArray");r.exports=n}});

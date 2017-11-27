@@ -1,1 +1,0 @@
-function wrapperReverse(){var r=this.__wrapped__;return r instanceof LazyWrapper?(this.__actions__.length&&(r=new LazyWrapper(this)),new LodashWrapper(r.reverse(),this.__chain__)):this.thru(function(r){return r.reverse()})}var LazyWrapper=require("../internal/LazyWrapper"),LodashWrapper=require("../internal/LodashWrapper"),thru=require("./thru");module.exports=wrapperReverse;

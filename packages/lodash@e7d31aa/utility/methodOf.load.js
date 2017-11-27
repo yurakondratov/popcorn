@@ -1,1 +1,0 @@
-montageDefine("e7d31aa","utility/methodOf",{dependencies:["../internal/invokePath","../function/restParam"],factory:function(n,t,e){var a=n("../internal/invokePath"),i=n("../function/restParam"),r=i(function(n,t){return function(e){return a(n,e,t)}});e.exports=r}});

@@ -1,1 +1,0 @@
-function times(i,n,a){if(i=floor(i),i<1||!nativeIsFinite(i))return[];var t=-1,e=Array(nativeMin(i,MAX_ARRAY_LENGTH));for(n=bindCallback(n,a,1);++t<i;)t<MAX_ARRAY_LENGTH?e[t]=n(t):n(t);return e}var bindCallback=require("../internal/bindCallback"),floor=Math.floor,nativeIsFinite=global.isFinite,nativeMin=Math.min,MAX_ARRAY_LENGTH=Math.pow(2,32)-1;module.exports=times;

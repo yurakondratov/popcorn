@@ -1,1 +1,0 @@
-montageDefine("e7d31aa","internal/composeArgs",{dependencies:[],factory:function(e,n,r){function t(e,n,r){for(var t=r.length,o=-1,f=a(e.length-t,0),c=-1,g=n.length,i=Array(f+g);++c<g;)i[c]=n[c];for(;++o<t;)i[r[o]]=e[o];for(;f--;)i[c++]=e[o++];return i}var a=Math.max;r.exports=t}});

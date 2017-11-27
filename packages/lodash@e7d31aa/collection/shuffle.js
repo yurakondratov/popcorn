@@ -1,1 +1,0 @@
-function shuffle(e){e=toIterable(e);for(var r=-1,a=e.length,t=Array(a);++r<a;){var n=baseRandom(0,r);r!=n&&(t[r]=t[n]),t[n]=e[r]}return t}var baseRandom=require("../internal/baseRandom"),toIterable=require("../internal/toIterable");module.exports=shuffle;

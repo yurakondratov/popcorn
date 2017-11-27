@@ -1,1 +1,0 @@
-var dom=require("minidom/dom");dom.Element.prototype.hasAttribute=dom.Element.prototype.hasAttribute||function(t){var e=this._attributes.getNamedItem(t);return!!e};

@@ -1,1 +1,0 @@
-function removeDuplicateFontAtRules(e){var r,l,o,t,i=[];for(o=0,t=e.length;o<t;o++)r=e[o],r[0]!=Token.AT_RULE_BLOCK&&r[1][0][1]!=FONT_FACE_SCOPE||(l=serializeAll([r]),i.indexOf(l)>-1?r[2]=[]:i.push(l))}var Token=require("../../tokenizer/token"),serializeAll=require("../../writer/one-time").all,FONT_FACE_SCOPE="@font-face";module.exports=removeDuplicateFontAtRules;

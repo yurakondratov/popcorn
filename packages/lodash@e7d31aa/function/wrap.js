@@ -1,1 +1,0 @@
-function wrap(e,r){return r=null==r?identity:r,createWrapper(r,PARTIAL_FLAG,null,[e],[])}var createWrapper=require("../internal/createWrapper"),identity=require("../utility/identity"),PARTIAL_FLAG=32;module.exports=wrap;

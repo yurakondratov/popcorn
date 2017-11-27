@@ -1,1 +1,0 @@
-var baseFlatten=require("../internal/baseFlatten"),baseUniq=require("../internal/baseUniq"),restParam=require("../function/restParam"),union=restParam(function(e){return baseUniq(baseFlatten(e,!1,!0))});module.exports=union;

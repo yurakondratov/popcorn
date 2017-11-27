@@ -1,1 +1,0 @@
-function chunk(e,a,l){a=(l?isIterateeCall(e,a,l):null==a)?1:nativeMax(+a||1,1);for(var r=0,i=e?e.length:0,t=-1,n=Array(ceil(i/a));r<i;)n[++t]=baseSlice(e,r,r+=a);return n}var baseSlice=require("../internal/baseSlice"),isIterateeCall=require("../internal/isIterateeCall"),ceil=Math.ceil,nativeMax=Math.max;module.exports=chunk;

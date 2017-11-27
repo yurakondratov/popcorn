@@ -1,1 +1,0 @@
-montageDefine("e7d31aa","chain/wrapperChain",{dependencies:["./chain"],factory:function(n,e,a){function i(){return c(this)}var c=n("./chain");a.exports=i}});

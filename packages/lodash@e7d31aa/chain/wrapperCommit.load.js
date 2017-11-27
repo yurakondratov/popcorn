@@ -1,1 +1,0 @@
-montageDefine("e7d31aa","chain/wrapperCommit",{dependencies:["../internal/LodashWrapper"],factory:function(e,n,a){function r(){return new i(this.value(),this.__chain__)}var i=e("../internal/LodashWrapper");a.exports=r}});

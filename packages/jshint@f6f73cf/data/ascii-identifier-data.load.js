@@ -1,1 +1,0 @@
-montageDefine("f6f73cf","data/ascii-identifier-data",{dependencies:[],factory:function(e,i,a){for(var t=[],f=0;f<128;f++)t[f]=36===f||f>=65&&f<=90||95===f||f>=97&&f<=122;for(var r=[],f=0;f<128;f++)r[f]=t[f]||f>=48&&f<=57;a.exports={asciiIdentifierStartTable:t,asciiIdentifierPartTable:r}}});

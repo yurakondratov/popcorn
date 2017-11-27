@@ -1,1 +1,0 @@
-montageDefine("e7d31aa","internal/getData",{dependencies:["./metaMap","../utility/noop"],factory:function(t,e,n){var a=t("./metaMap"),i=t("../utility/noop"),o=a?function(t){return a.get(t)}:i;n.exports=o}});

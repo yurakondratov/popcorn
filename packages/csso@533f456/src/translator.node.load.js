@@ -1,1 +1,0 @@
-montageDefine("533f456","src/translator.node",{dependencies:[],factory:function(n,t,r){t.translate=function(n){return(new CSSOTranslator).translate(n)},t.translator=function(){return new CSSOTranslator}}});

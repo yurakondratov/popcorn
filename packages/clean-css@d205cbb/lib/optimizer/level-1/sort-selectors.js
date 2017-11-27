@@ -1,1 +1,0 @@
-function naturalSorter(r,t){return naturalCompare(r[1],t[1])}function standardSorter(r,t){return r[1]>t[1]?1:-1}function sortSelectors(r,t){switch(t){case"natural":return r.sort(naturalSorter);case"standard":return r.sort(standardSorter);case"none":case!1:return r}}var naturalCompare=require("../../utils/natural-compare");module.exports=sortSelectors;

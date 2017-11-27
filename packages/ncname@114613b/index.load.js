@@ -1,1 +1,0 @@
-montageDefine("114613b","index",{dependencies:["xml-char-classes"],factory:function(e,n,t){"use strict";function r(e){return e.source.slice(1,-1)}var c=e("xml-char-classes");t.exports=new RegExp("^["+r(c.letter)+"_]["+r(c.letter)+r(c.digit)+"\\.\\-_"+r(c.combiningChar)+r(c.extender)+"]*$")}});

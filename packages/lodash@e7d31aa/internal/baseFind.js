@@ -1,1 +1,0 @@
-function baseFind(n,e,r,i){var t;return r(n,function(n,r,u){if(e(n,r,u))return t=i?r:n,!1}),t}module.exports=baseFind;

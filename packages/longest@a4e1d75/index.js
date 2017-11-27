@@ -1,1 +1,0 @@
-"use strict";module.exports=function(r){if(!r)return null;var t=r.length;if(!t)return null;for(var n,e,u,l=0,i=0;i<t;i++)n=r[i].toString(),e=n.length,e>l&&(u=n,l=e);return u};

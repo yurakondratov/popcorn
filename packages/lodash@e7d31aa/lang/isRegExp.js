@@ -1,1 +1,0 @@
-function isRegExp(e){return isObjectLike(e)&&objToString.call(e)==regexpTag||!1}var isObjectLike=require("../internal/isObjectLike"),regexpTag="[object RegExp]",objectProto=Object.prototype,objToString=objectProto.toString;module.exports=isRegExp;

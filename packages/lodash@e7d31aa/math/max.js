@@ -1,1 +1,0 @@
-var arrayMax=require("../internal/arrayMax"),createExtremum=require("../internal/createExtremum"),max=createExtremum(arrayMax);module.exports=max;

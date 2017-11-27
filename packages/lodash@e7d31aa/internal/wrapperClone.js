@@ -1,1 +1,0 @@
-function wrapperClone(r){return r instanceof LazyWrapper?r.clone():new LodashWrapper(r.__wrapped__,r.__chain__,arrayCopy(r.__actions__))}var LazyWrapper=require("./LazyWrapper"),LodashWrapper=require("./LodashWrapper"),arrayCopy=require("./arrayCopy");module.exports=wrapperClone;

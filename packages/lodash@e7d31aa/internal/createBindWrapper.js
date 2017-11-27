@@ -1,1 +1,0 @@
-function createBindWrapper(r,e){function t(){var p=this&&this!==global&&this instanceof t?a:r;return p.apply(e,arguments)}var a=createCtorWrapper(r);return t}var createCtorWrapper=require("./createCtorWrapper");module.exports=createBindWrapper;

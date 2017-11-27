@@ -1,1 +1,0 @@
-function inRange(n,a,e){return a=+a||0,"undefined"==typeof e?(e=a,a=0):e=+e||0,n>=nativeMin(a,e)&&n<nativeMax(a,e)}var nativeMax=Math.max,nativeMin=Math.min;module.exports=inRange;

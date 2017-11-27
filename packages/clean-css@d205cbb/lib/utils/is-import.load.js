@@ -1,1 +1,0 @@
-montageDefine("d205cbb","lib/utils/is-import",{dependencies:[],factory:function(t,e,i){function n(t){return o.test(t)}var o=/^@import/i;i.exports=n}});

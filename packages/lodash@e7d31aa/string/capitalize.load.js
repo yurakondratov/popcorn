@@ -1,1 +1,0 @@
-montageDefine("e7d31aa","string/capitalize",{dependencies:["../internal/baseToString"],factory:function(e,n,t){function a(e){return e=i(e),e&&e.charAt(0).toUpperCase()+e.slice(1)}var i=e("../internal/baseToString");t.exports=a}});

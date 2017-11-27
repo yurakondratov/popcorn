@@ -1,1 +1,0 @@
-montageDefine("e7d31aa","internal/baseProperty",{dependencies:[],factory:function(n,e,t){function r(n){return function(e){return null==e?void 0:e[n]}}t.exports=r}});

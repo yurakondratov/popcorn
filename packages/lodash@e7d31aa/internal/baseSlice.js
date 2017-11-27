@@ -1,1 +1,0 @@
-function baseSlice(e,r,l){var a=-1,n=e.length;r=null==r?0:+r||0,r<0&&(r=-r>n?0:n+r),l=void 0===l||l>n?n:+l||0,l<0&&(l+=n),n=r>l?0:l-r>>>0,r>>>=0;for(var o=Array(n);++a<n;)o[a]=e[a+r];return o}module.exports=baseSlice;

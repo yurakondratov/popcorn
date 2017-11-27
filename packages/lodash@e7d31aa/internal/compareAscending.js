@@ -1,1 +1,0 @@
-function compareAscending(e,n){return baseCompareAscending(e.criteria,n.criteria)||e.index-n.index}var baseCompareAscending=require("./baseCompareAscending");module.exports=compareAscending;

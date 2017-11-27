@@ -1,1 +1,0 @@
-montageDefine("e7d31aa","internal/baseForOwnRight",{dependencies:["./baseForRight","../object/keys"],factory:function(e,n,t){function o(e,n){return a(e,n,r)}var a=e("./baseForRight"),r=e("../object/keys");t.exports=o}});

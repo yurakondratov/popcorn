@@ -1,1 +1,0 @@
-function isMergeableShorthand(e){return"font"!=e.name||e.value[0][1].indexOf(Marker.INTERNAL)==-1}var Marker=require("../../../tokenizer/marker");module.exports=isMergeableShorthand;

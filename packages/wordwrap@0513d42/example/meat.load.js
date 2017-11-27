@@ -1,1 +1,0 @@
-montageDefine("0513d42","example/meat",{dependencies:["wordwrap"],factory:function(e,o,a){var n=e("wordwrap")(15);console.log(n("You and your whole family are made out of meat."))}});

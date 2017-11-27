@@ -1,1 +1,0 @@
-montageDefine("e7d31aa","string/camelCase",{dependencies:["../internal/createCompounder"],factory:function(e,n,r){var a=e("../internal/createCompounder"),t=a(function(e,n,r){return n=n.toLowerCase(),e+(r?n.charAt(0).toUpperCase()+n.slice(1):n)});r.exports=t}});

@@ -1,1 +1,0 @@
-montageDefine("d205cbb","lib/optimizer/level-2/properties/vendor-prefixes",{dependencies:[],factory:function(e,n,r){function i(e){for(var n,r=[];null!==(n=t.exec(e));)r.indexOf(n[0])==-1&&r.push(n[0]);return r}function o(e,n){return i(e).sort().join(",")==i(n).sort().join(",")}var t=/(?:^|\W)(\-\w+\-)/g;r.exports={unique:i,same:o}}});

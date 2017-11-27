@@ -1,1 +1,0 @@
-function arrayMax(r){for(var I=-1,N=r.length,a=NEGATIVE_INFINITY;++I<N;){var E=r[I];E>a&&(a=E)}return a}var NEGATIVE_INFINITY=Number.NEGATIVE_INFINITY;module.exports=arrayMax;

@@ -1,1 +1,0 @@
-function reject(r,e,a){var i=isArray(r)?arrayFilter:baseFilter;return e=baseCallback(e,a,3),i(r,function(r,a,i){return!e(r,a,i)})}var arrayFilter=require("../internal/arrayFilter"),baseCallback=require("../internal/baseCallback"),baseFilter=require("../internal/baseFilter"),isArray=require("../lang/isArray");module.exports=reject;

@@ -1,1 +1,0 @@
-function equalArrays(r,e,a,o,f,i,l){var n=-1,t=r.length,u=e.length,v=!0;if(t!=u&&!(f&&u>t))return!1;for(;v&&++n<t;){var s=r[n],d=e[n];if(v=void 0,o&&(v=f?o(d,s,n):o(s,d,n)),void 0===v)if(f)for(var g=u;g--&&(d=e[g],!(v=s&&s===d||a(s,d,o,f,i,l))););else v=s&&s===d||a(s,d,o,f,i,l)}return!!v}module.exports=equalArrays;

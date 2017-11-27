@@ -1,1 +1,0 @@
-montageDefine("e7d31aa","internal/createCtorWrapper",{dependencies:["./baseCreate","../lang/isObject"],factory:function(e,t,a){function n(e){return function(){var t=r(e.prototype),a=e.apply(t,arguments);return o(a)?a:t}}var r=e("./baseCreate"),o=e("../lang/isObject");a.exports=n}});

@@ -1,1 +1,0 @@
-montageDefine("e7d31aa","internal/createForEach",{dependencies:["./bindCallback","../lang/isArray"],factory:function(n,a,e){function r(n,a){return function(e,r,c){return"function"==typeof r&&void 0===c&&t(e)?n(e,r):a(e,i(r,c,3))}}var i=n("./bindCallback"),t=n("../lang/isArray");e.exports=r}});

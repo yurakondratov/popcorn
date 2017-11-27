@@ -1,1 +1,0 @@
-montageDefine("e7d31aa","collection/size",{dependencies:["../internal/getLength","../internal/isLength","../object/keys"],factory:function(e,n,t){function i(e){var n=e?a(e):0;return r(n)?n:o(e).length}var a=e("../internal/getLength"),r=e("../internal/isLength"),o=e("../object/keys");t.exports=i}});

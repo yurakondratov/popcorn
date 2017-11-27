@@ -1,1 +1,0 @@
-function mapDelete(e){return this.has(e)&&delete this.__data__[e]}module.exports=mapDelete;

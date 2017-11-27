@@ -1,1 +1,0 @@
-montageDefine("fc77de5","examples/progress",{dependencies:["cli"],factory:function(e,n,r){var c=e("cli"),i=0,s=setInterval(function(){c.progress(++i/100),100===i&&(clearInterval(s),c.ok("Finished!"))},50)}});

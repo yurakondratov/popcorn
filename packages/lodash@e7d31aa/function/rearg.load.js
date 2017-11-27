@@ -1,1 +1,0 @@
-montageDefine("e7d31aa","function/rearg",{dependencies:["../internal/baseFlatten","../internal/createWrapper","./restParam"],factory:function(e,n,a){var r=e("../internal/baseFlatten"),t=e("../internal/createWrapper"),l=e("./restParam"),i=256,c=l(function(e,n){return t(e,i,null,null,null,r(n))});a.exports=c}});

@@ -1,1 +1,0 @@
-function clone(e,l,n,a){return l&&"boolean"!=typeof l&&isIterateeCall(e,l,n)?l=!1:"function"==typeof l&&(a=n,n=l,l=!1),n="function"==typeof n&&bindCallback(n,a,1),baseClone(e,l,n)}var baseClone=require("../internal/baseClone"),bindCallback=require("../internal/bindCallback"),isIterateeCall=require("../internal/isIterateeCall");module.exports=clone;

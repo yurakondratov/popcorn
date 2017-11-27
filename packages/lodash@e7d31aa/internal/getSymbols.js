@@ -1,1 +1,0 @@
-var constant=require("../utility/constant"),isNative=require("../lang/isNative"),toObject=require("./toObject"),getOwnPropertySymbols=isNative(getOwnPropertySymbols=Object.getOwnPropertySymbols)&&getOwnPropertySymbols,getSymbols=getOwnPropertySymbols?function(t){return getOwnPropertySymbols(toObject(t))}:constant([]);module.exports=getSymbols;

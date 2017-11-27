@@ -1,1 +1,0 @@
-montageDefine("d205cbb","lib/options/rebase",{dependencies:[],factory:function(e,n,o){function i(e){return void 0===e||!!e}o.exports=i}});

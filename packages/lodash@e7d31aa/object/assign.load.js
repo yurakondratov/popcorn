@@ -1,1 +1,0 @@
-montageDefine("e7d31aa","object/assign",{dependencies:["../internal/assignWith","../internal/baseAssign","../internal/createAssigner"],factory:function(n,e,i){var a=n("../internal/assignWith"),s=n("../internal/baseAssign"),t=n("../internal/createAssigner"),r=t(function(n,e,i){return i?a(n,e,i):s(n,e)});i.exports=r}});

@@ -1,1 +1,0 @@
-montageDefine("d205cbb","lib/options/fetch",{dependencies:["../reader/load-remote-resource"],factory:function(e,r,o){function n(e){return e||t}var t=e("../reader/load-remote-resource");o.exports=n}});

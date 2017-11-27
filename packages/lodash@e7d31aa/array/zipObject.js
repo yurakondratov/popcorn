@@ -1,1 +1,0 @@
-function zipObject(r,e){var a=-1,i=r?r.length:0,t={};for(!i||e||isArray(r[0])||(e=[]);++a<i;){var n=r[a];e?t[n]=e[a]:n&&(t[n[0]]=n[1])}return t}var isArray=require("../lang/isArray");module.exports=zipObject;

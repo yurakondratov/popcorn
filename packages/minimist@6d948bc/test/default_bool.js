@@ -1,1 +1,0 @@
-var test=require("tape"),parse=require("../");test("boolean default true",function(e){var a=parse([],{"boolean":"sometrue","default":{sometrue:!0}});e.equal(a.sometrue,!0),e.end()}),test("boolean default false",function(e){var a=parse([],{"boolean":"somefalse","default":{somefalse:!1}});e.equal(a.somefalse,!1),e.end()});

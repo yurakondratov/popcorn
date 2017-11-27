@@ -1,1 +1,0 @@
-var Parser=require("parse5").Parser,Handler=require("./handler"),dom=require("./dom");module.exports=function(e){e||(e="<!doctype html><html><head></head><body></body></html>");var r=new Handler(dom),d=new Parser(r);return d.parse(e),r.document};

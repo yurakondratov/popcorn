@@ -1,1 +1,0 @@
-var optimist=require("../index"),test=require("tap").test;test("-n123",function(t){t.plan(1);var e=optimist.parse(["-n123"]);t.equal(e.n,123)}),test("-123",function(t){t.plan(3);var e=optimist.parse(["-123","456"]);t.equal(e[1],!0),t.equal(e[2],!0),t.equal(e[3],456)});

@@ -1,1 +1,0 @@
-montageDefine("e7d31aa","internal/createReduce",{dependencies:["./baseCallback","./baseReduce","../lang/isArray"],factory:function(e,a,n){function r(e,a){return function(n,r,o,u){var l=arguments.length<3;return"function"==typeof r&&void 0===u&&i(n)?e(n,r,o,l):c(n,t(r,u,4),o,l,a)}}var t=e("./baseCallback"),c=e("./baseReduce"),i=e("../lang/isArray");n.exports=r}});

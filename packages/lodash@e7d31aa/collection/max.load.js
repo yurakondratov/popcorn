@@ -1,1 +1,0 @@
-montageDefine("e7d31aa","collection/max",{dependencies:["../math/max"],factory:function(e,a,n){n.exports=e("../math/max")}});

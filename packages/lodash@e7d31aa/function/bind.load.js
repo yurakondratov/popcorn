@@ -1,1 +1,0 @@
-montageDefine("e7d31aa","function/bind",{dependencies:["../internal/createWrapper","../internal/replaceHolders","./restParam"],factory:function(e,r,a){var n=e("../internal/createWrapper"),t=e("../internal/replaceHolders"),l=e("./restParam"),c=1,i=32,o=l(function(e,r,a){var l=c;if(a.length){var p=t(a,o.placeholder);l|=i}return n(e,l,r,a,p)});o.placeholder={},a.exports=o}});

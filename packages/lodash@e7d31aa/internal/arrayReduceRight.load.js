@@ -1,1 +1,0 @@
-montageDefine("e7d31aa","internal/arrayReduceRight",{dependencies:[],factory:function(e,n,r){function t(e,n,r,t){var a=e.length;for(t&&a&&(r=e[--a]);a--;)r=n(r,e[a],a,e);return r}r.exports=t}});

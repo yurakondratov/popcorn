@@ -1,1 +1,0 @@
-function propertyOf(e){return function(t){return baseGet(e,toPath(t),t+"")}}var baseGet=require("../internal/baseGet"),toPath=require("../internal/toPath");module.exports=propertyOf;

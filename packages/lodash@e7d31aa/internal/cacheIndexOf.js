@@ -1,1 +1,0 @@
-function cacheIndexOf(e,t){var a=e.data,c="string"==typeof t||isObject(t)?a.set.has(t):a.hash[t];return c?0:-1}var isObject=require("../lang/isObject");module.exports=cacheIndexOf;

@@ -1,1 +1,0 @@
-montageDefine("d5c4fb2","core/meta/property-blueprint",{dependencies:["./property-descriptor"],factory:function(r,e,p){e.PropertyBlueprint=r("./property-descriptor").PropertyDescriptor}});

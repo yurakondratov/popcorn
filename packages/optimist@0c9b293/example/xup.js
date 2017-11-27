@@ -1,1 +1,0 @@
-var argv=require("optimist").argv;argv.rif-5*argv.xup>7.138?console.log("Buy more riffiwobbles"):console.log("Sell the xupptumblers");

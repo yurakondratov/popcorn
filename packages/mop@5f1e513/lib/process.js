@@ -1,1 +1,0 @@
-var UGLIFY=require("uglify-js"),commands={uglify:function(r){try{return UGLIFY.minify(r,{fromString:!0,warnings:!1}).code}catch(n){throw n}}};process.on("message",function(r){try{process.send({id:r.id,result:commands[r.command](r.data)})}catch(n){process.send({id:r.id,error:n})}});

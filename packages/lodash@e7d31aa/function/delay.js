@@ -1,1 +1,0 @@
-var baseDelay=require("../internal/baseDelay"),restParam=require("./restParam"),delay=restParam(function(e,a,r){return baseDelay(e,a,r)});module.exports=delay;

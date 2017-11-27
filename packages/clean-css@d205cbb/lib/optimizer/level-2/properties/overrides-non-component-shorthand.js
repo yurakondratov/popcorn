@@ -1,1 +1,0 @@
-function overridesNonComponentShorthand(e,o){return e.name in compactable&&"overridesShorthands"in compactable[e.name]&&compactable[e.name].overridesShorthands.indexOf(o.name)>-1}var compactable=require("../compactable");module.exports=overridesNonComponentShorthand;

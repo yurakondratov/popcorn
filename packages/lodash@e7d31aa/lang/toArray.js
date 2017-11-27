@@ -1,1 +1,0 @@
-function toArray(e){var r=e?getLength(e):0;return isLength(r)?r?arrayCopy(e):[]:values(e)}var arrayCopy=require("../internal/arrayCopy"),getLength=require("../internal/getLength"),isLength=require("../internal/isLength"),values=require("../object/values");module.exports=toArray;

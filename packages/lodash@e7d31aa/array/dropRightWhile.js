@@ -1,1 +1,0 @@
-function dropRightWhile(e,a,l){return e&&e.length?baseWhile(e,baseCallback(a,l,3),!0,!0):[]}var baseCallback=require("../internal/baseCallback"),baseWhile=require("../internal/baseWhile");module.exports=dropRightWhile;

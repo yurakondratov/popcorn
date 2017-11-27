@@ -1,1 +1,0 @@
-function hasProtocol(O){return!NO_PROTOCOL_RESOURCE_PATTERN.test(O)}var NO_PROTOCOL_RESOURCE_PATTERN=/^\/\//;module.exports=hasProtocol;

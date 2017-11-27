@@ -1,1 +1,0 @@
-"use strict";function getRange(e){return e.source.slice(1,-1)}var xmlChars=require("xml-char-classes");module.exports=new RegExp("^["+getRange(xmlChars.letter)+"_]["+getRange(xmlChars.letter)+getRange(xmlChars.digit)+"\\.\\-_"+getRange(xmlChars.combiningChar)+getRange(xmlChars.extender)+"]*$");

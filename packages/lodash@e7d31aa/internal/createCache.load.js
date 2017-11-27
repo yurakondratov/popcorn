@@ -1,1 +1,0 @@
-montageDefine("e7d31aa","internal/createCache",{dependencies:["./SetCache","../utility/constant","../lang/isNative"],factory:function(e,t,n){var a=e("./SetCache"),i=e("../utility/constant"),c=e("../lang/isNative"),l=c(l=global.Set)&&l,o=c(o=Object.create)&&o,r=o&&l?function(e){return new a(e)}:i(null);n.exports=r}});

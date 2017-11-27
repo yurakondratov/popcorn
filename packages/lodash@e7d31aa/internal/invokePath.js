@@ -1,1 +1,0 @@
-function invokePath(e,a,t){null==e||isKey(a,e)||(a=toPath(a),e=1==a.length?e:baseGet(e,baseSlice(a,0,-1)),a=last(a));var r=null==e?e:e[a];return null==r?void 0:r.apply(e,t)}var baseGet=require("./baseGet"),baseSlice=require("./baseSlice"),isKey=require("./isKey"),last=require("../array/last"),toPath=require("./toPath");module.exports=invokePath;

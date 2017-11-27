@@ -1,1 +1,0 @@
-montageDefine("e7d31aa","internal/createForIn",{dependencies:["./bindCallback","../object/keysIn"],factory:function(n,e,t){function o(n){return function(e,t,o){return"function"==typeof t&&void 0===o||(t=a(t,o,3)),n(e,t,c)}}var a=n("./bindCallback"),c=n("../object/keysIn");t.exports=o}});

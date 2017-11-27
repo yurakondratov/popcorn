@@ -1,1 +1,0 @@
-function createPadDir(e){return function(r,a,t){return r=baseToString(r),r&&(e?r:"")+createPadding(r,a,t)+(e?"":r)}}var baseToString=require("./baseToString"),createPadding=require("./createPadding");module.exports=createPadDir;

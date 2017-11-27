@@ -1,1 +1,0 @@
-montageDefine("e7d31aa","array/flatten",{dependencies:["../internal/baseFlatten","../internal/isIterateeCall"],factory:function(e,a,n){function t(e,a,n){var t=e?e.length:0;return n&&l(e,a,n)&&(a=!1),t?r(e,a):[]}var r=e("../internal/baseFlatten"),l=e("../internal/isIterateeCall");n.exports=t}});

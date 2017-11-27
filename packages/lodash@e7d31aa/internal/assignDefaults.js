@@ -1,1 +1,0 @@
-function assignDefaults(s,e){return void 0===s?e:s}module.exports=assignDefaults;

@@ -1,1 +1,0 @@
-function binaryIndexBy(n,o,r,A){o=r(o);for(var a=0,i=n?n.length:0,e=o!==o,t=void 0===o;a<i;){var M=floor((a+i)/2),v=r(n[M]),R=v===v;if(e)var _=R||A;else _=t?R&&(A||void 0!==v):A?v<=o:v<o;_?a=M+1:i=M}return nativeMin(i,MAX_ARRAY_INDEX)}var floor=Math.floor,nativeMin=Math.min,MAX_ARRAY_LENGTH=Math.pow(2,32)-1,MAX_ARRAY_INDEX=MAX_ARRAY_LENGTH-1;module.exports=binaryIndexBy;

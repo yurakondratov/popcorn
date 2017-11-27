@@ -1,1 +1,0 @@
-var cli=require("cli"),i=0,interval=setInterval(function(){cli.progress(++i/100),100===i&&(clearInterval(interval),cli.ok("Finished!"))},50);

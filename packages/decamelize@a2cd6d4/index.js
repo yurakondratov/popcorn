@@ -1,1 +1,0 @@
-"use strict";module.exports=function(e,r){if("string"!=typeof e)throw new TypeError("Expected a string");return r="undefined"==typeof r?"_":r,e.replace(/([a-z\d])([A-Z])/g,"$1"+r+"$2").replace(/([A-Z]+)([A-Z][a-z\d]+)/g,"$1"+r+"$2").toLowerCase()};

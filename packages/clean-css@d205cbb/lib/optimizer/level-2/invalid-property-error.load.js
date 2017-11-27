@@ -1,1 +1,0 @@
-montageDefine("d205cbb","lib/optimizer/level-2/invalid-property-error",{dependencies:[],factory:function(r,e,t){function o(r){this.name="InvalidPropertyError",this.message=r,this.stack=(new Error).stack}o.prototype=Object.create(Error.prototype),o.prototype.constructor=o,t.exports=o}});

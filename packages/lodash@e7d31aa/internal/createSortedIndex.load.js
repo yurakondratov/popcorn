@@ -1,1 +1,0 @@
-montageDefine("e7d31aa","internal/createSortedIndex",{dependencies:["./baseCallback","./binaryIndex","./binaryIndexBy"],factory:function(n,e,a){function r(n){return function(e,a,r,b){return null==r?i(e,a,n):d(e,a,t(r,b,1),n)}}var t=n("./baseCallback"),i=n("./binaryIndex"),d=n("./binaryIndexBy");a.exports=r}});

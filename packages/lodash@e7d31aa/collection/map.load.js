@@ -1,1 +1,0 @@
-montageDefine("e7d31aa","collection/map",{dependencies:["../internal/arrayMap","../internal/baseCallback","../internal/baseMap","../lang/isArray"],factory:function(a,n,e){function r(a,n,e){var r=c(a)?l:t;return n=i(n,e,3),r(a,n)}var l=a("../internal/arrayMap"),i=a("../internal/baseCallback"),t=a("../internal/baseMap"),c=a("../lang/isArray");e.exports=r}});

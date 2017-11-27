@@ -1,1 +1,0 @@
-montageDefine("e7d31aa","utility/callback",{dependencies:["../internal/baseCallback","../internal/isIterateeCall"],factory:function(e,a,n){function l(e,a,n){return n&&i(e,a,n)&&(a=null),t(e,a)}var t=e("../internal/baseCallback"),i=e("../internal/isIterateeCall");n.exports=l}});

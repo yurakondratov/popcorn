@@ -1,1 +1,0 @@
-function mapGet(t){return"__proto__"==t?void 0:this.__data__[t]}module.exports=mapGet;

@@ -1,1 +1,0 @@
-function takeWhile(e,a,l){return e&&e.length?baseWhile(e,baseCallback(a,l,3)):[]}var baseCallback=require("../internal/baseCallback"),baseWhile=require("../internal/baseWhile");module.exports=takeWhile;

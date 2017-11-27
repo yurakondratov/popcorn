@@ -1,1 +1,0 @@
-montageDefine("d205cbb","lib/optimizer/level-2/properties/overrides-non-component-shorthand",{dependencies:["../compactable"],factory:function(e,n,o){function r(e,n){return e.name in a&&"overridesShorthands"in a[e.name]&&a[e.name].overridesShorthands.indexOf(n.name)>-1}var a=e("../compactable");o.exports=r}});

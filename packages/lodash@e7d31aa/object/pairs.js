@@ -1,1 +1,0 @@
-function pairs(r){for(var e=-1,a=keys(r),s=a.length,i=Array(s);++e<s;){var n=a[e];i[e]=[n,r[n]]}return i}var keys=require("./keys");module.exports=pairs;

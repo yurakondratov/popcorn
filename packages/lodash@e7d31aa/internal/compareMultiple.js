@@ -1,1 +1,0 @@
-function compareMultiple(e,r,i){for(var n=-1,a=e.criteria,t=r.criteria,o=a.length,c=i.length;++n<o;){var p=baseCompareAscending(a[n],t[n]);if(p)return n>=c?p:p*(i[n]?1:-1)}return e.index-r.index}var baseCompareAscending=require("./baseCompareAscending");module.exports=compareMultiple;

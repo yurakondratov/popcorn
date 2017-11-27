@@ -1,1 +1,0 @@
-montageDefine("0c9b293","example/default_hash",{dependencies:["optimist"],factory:function(e,t,a){var o=e("optimist")["default"]({x:10,y:10}).argv;console.log(o.x+o.y)}});

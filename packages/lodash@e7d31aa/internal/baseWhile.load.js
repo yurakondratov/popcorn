@@ -1,1 +1,0 @@
-montageDefine("e7d31aa","internal/baseWhile",{dependencies:["./baseSlice"],factory:function(e,n,a){function i(e,n,a,i){for(var t=e.length,c=i?t:-1;(i?c--:++c<t)&&n(e[c],c,e););return a?r(e,i?0:c,i?c+1:t):r(e,i?c+1:0,i?t:c)}var r=e("./baseSlice");a.exports=i}});

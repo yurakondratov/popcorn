@@ -1,1 +1,0 @@
-var noCase=require("no-case");module.exports=function(e,n){return noCase(e,n,"-")};

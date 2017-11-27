@@ -1,1 +1,0 @@
-montageDefine("0c9b293","example/xup",{dependencies:["optimist"],factory:function(e,o,i){var l=e("optimist").argv;l.rif-5*l.xup>7.138?console.log("Buy more riffiwobbles"):console.log("Sell the xupptumblers")}});

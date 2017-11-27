@@ -1,1 +1,0 @@
-montageDefine("e7d31aa","array/dropRight",{dependencies:["../internal/baseSlice","../internal/isIterateeCall"],factory:function(e,n,a){function t(e,n,a){var t=e?e.length:0;return t?((a?i(e,n,a):null==n)&&(n=1),n=t-(+n||0),r(e,0,n<0?0:n)):[]}var r=e("../internal/baseSlice"),i=e("../internal/isIterateeCall");a.exports=t}});

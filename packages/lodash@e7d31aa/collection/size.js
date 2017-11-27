@@ -1,1 +1,0 @@
-function size(e){var t=e?getLength(e):0;return isLength(t)?t:keys(e).length}var getLength=require("../internal/getLength"),isLength=require("../internal/isLength"),keys=require("../object/keys");module.exports=size;

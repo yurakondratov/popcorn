@@ -1,1 +1,0 @@
-montageDefine("b73970e","index",{dependencies:["align-text"],factory:function(e,n,t){"use strict";var i=e("align-text");t.exports=function(e){return i(e,function(e,n){return n-e})}}});

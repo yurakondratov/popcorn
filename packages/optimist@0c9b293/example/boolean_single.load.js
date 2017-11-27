@@ -1,1 +1,0 @@
-montageDefine("0c9b293","example/boolean_single",{dependencies:["optimist"],factory:function(e,o,n){var i=e("optimist")["boolean"]("v").argv;console.dir(i.v),console.dir(i._)}});

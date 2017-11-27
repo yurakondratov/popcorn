@@ -1,1 +1,0 @@
-function arraySum(r){for(var a=r.length,u=0;a--;)u+=+r[a]||0;return u}module.exports=arraySum;

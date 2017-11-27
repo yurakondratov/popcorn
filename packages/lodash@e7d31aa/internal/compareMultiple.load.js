@@ -1,1 +1,0 @@
-montageDefine("e7d31aa","internal/compareMultiple",{dependencies:["./baseCompareAscending"],factory:function(e,n,r){function a(e,n,r){for(var a=-1,t=e.criteria,c=n.criteria,o=t.length,d=r.length;++a<o;){var f=i(t[a],c[a]);if(f)return a>=d?f:f*(r[a]?1:-1)}return e.index-n.index}var i=e("./baseCompareAscending");r.exports=a}});

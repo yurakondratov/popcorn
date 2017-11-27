@@ -1,1 +1,0 @@
-function createForIn(e){return function(n,r,o){return"function"==typeof r&&void 0===o||(r=bindCallback(r,o,3)),e(n,r,keysIn)}}var bindCallback=require("./bindCallback"),keysIn=require("../object/keysIn");module.exports=createForIn;

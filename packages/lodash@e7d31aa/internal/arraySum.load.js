@@ -1,1 +1,0 @@
-montageDefine("e7d31aa","internal/arraySum",{dependencies:[],factory:function(e,n,r){function a(e){for(var n=e.length,r=0;n--;)r+=+e[n]||0;return r}r.exports=a}});

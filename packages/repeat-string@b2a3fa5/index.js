@@ -1,1 +1,0 @@
-"use strict";function repeat(e,r){if("string"!=typeof e)throw new TypeError("expected a string");if(1===r)return e;if(2===r)return e+e;var t=e.length*r;if(cache!==e||"undefined"==typeof cache)cache=e,res="";else if(res.length>=t)return res.substr(0,t);for(;t>res.length&&r>1;)1&r&&(res+=e),r>>=1,e+=e;return res+=e,res=res.substr(0,t)}var res="",cache;module.exports=repeat;

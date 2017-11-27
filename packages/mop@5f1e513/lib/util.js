@@ -1,1 +1,0 @@
-function relativeToWorkingLocation(o){return URL.relative(currentLocation,o)}var URL=require("url2"),currentLocation=URL.format({protocol:"file:",slashes:!0,pathname:process.cwd()+"/"});exports.relativeToWorkingLocation=relativeToWorkingLocation;

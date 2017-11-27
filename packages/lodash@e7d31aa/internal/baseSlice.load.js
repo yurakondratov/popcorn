@@ -1,1 +1,0 @@
-montageDefine("e7d31aa","internal/baseSlice",{dependencies:[],factory:function(e,n,r){function a(e,n,r){var a=-1,t=e.length;n=null==n?0:+n||0,n<0&&(n=-n>t?0:t+n),r=void 0===r||r>t?t:+r||0,r<0&&(r+=t),t=n>r?0:r-n>>>0,n>>>=0;for(var i=Array(t);++a<t;)i[a]=e[a+n];return i}r.exports=a}});

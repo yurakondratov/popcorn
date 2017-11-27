@@ -1,1 +1,0 @@
-montageDefine("fc77de5","examples/sort",{dependencies:["cli"],factory:function(e,r,n){var t=e("cli"),s=t.parse({numeric:["n","Compare using a numeric sort"],reverse:["r","Reverse the results"]});t.withStdinLines(function(e,r){e.sort(s.numeric?function(e,r){return parseInt(e)>parseInt(r)}:null),s.reverse&&e.reverse(),this.output(e.join(r))})}});

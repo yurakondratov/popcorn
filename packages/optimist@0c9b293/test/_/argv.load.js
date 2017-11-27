@@ -1,1 +1,0 @@
-montageDefine("0c9b293","test/_/argv",{dependencies:[],factory:function(e,n,o){console.log(JSON.stringify(process.argv))}});

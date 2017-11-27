@@ -1,1 +1,0 @@
-function spread(r){if("function"!=typeof r)throw new TypeError(FUNC_ERROR_TEXT);return function(e){return r.apply(this,e)}}var FUNC_ERROR_TEXT="Expected a function";module.exports=spread;

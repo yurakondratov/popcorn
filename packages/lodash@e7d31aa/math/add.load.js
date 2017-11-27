@@ -1,1 +1,0 @@
-montageDefine("e7d31aa","math/add",{dependencies:[],factory:function(e,n,t){function a(e,n){return(+e||0)+(+n||0)}t.exports=a}});

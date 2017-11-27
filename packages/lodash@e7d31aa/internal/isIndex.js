@@ -1,1 +1,0 @@
-function isIndex(n,E){return n=+n,E=null==E?MAX_SAFE_INTEGER:E,n>-1&&n%1==0&&n<E}var MAX_SAFE_INTEGER=Math.pow(2,53)-1;module.exports=isIndex;

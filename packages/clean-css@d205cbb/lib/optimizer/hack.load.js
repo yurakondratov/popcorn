@@ -1,1 +1,0 @@
-montageDefine("d205cbb","lib/optimizer/hack",{dependencies:[],factory:function(e,a,n){var c={ASTERISK:"asterisk",BANG:"bang",BACKSLASH:"backslash",UNDERSCORE:"underscore"};n.exports=c}});

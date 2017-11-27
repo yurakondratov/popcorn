@@ -1,1 +1,0 @@
-montageDefine("e7d31aa","internal/setData",{dependencies:["./baseSetData","../date/now"],factory:function(e,a,t){var n=e("./baseSetData"),r=e("../date/now"),i=150,o=16,f=function(){var e=0,a=0;return function(t,f){var s=r(),u=o-(s-a);if(a=s,u>0){if(++e>=i)return t}else e=0;return n(t,f)}}();t.exports=f}});

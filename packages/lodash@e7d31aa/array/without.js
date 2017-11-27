@@ -1,1 +1,0 @@
-var baseDifference=require("../internal/baseDifference"),isArguments=require("../lang/isArguments"),isArray=require("../lang/isArray"),restParam=require("../function/restParam"),without=restParam(function(r,e){return isArray(r)||isArguments(r)?baseDifference(r,e):[]});module.exports=without;

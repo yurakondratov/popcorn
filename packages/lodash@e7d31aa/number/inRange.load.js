@@ -1,1 +1,0 @@
-montageDefine("e7d31aa","number/inRange",{dependencies:[],factory:function(e,n,a){function t(e,n,a){return n=+n||0,"undefined"==typeof a?(a=n,n=0):a=+a||0,e>=f(n,a)&&e<i(n,a)}var i=Math.max,f=Math.min;a.exports=t}});

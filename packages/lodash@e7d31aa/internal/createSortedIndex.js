@@ -1,1 +1,0 @@
-function createSortedIndex(e){return function(r,n,a,b){return null==a?binaryIndex(r,n,e):binaryIndexBy(r,n,baseCallback(a,b,1),e)}}var baseCallback=require("./baseCallback"),binaryIndex=require("./binaryIndex"),binaryIndexBy=require("./binaryIndexBy");module.exports=createSortedIndex;

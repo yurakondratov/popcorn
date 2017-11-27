@@ -1,1 +1,0 @@
-var SetCache=require("./SetCache"),constant=require("../utility/constant"),isNative=require("../lang/isNative"),Set=isNative(Set=global.Set)&&Set,nativeCreate=isNative(nativeCreate=Object.create)&&nativeCreate,createCache=nativeCreate&&Set?function(e){return new SetCache(e)}:constant(null);module.exports=createCache;

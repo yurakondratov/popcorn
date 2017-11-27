@@ -1,1 +1,0 @@
-function restoreWithComponents(e){var o=compactable[e.name];return o&&o.shorthand?o.restore(e,compactable):e.value}var compactable=require("./compactable");module.exports=restoreWithComponents;

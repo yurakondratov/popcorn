@@ -1,1 +1,0 @@
-montageDefine("e7d31aa","collection/collect",{dependencies:["./map"],factory:function(e,c,n){n.exports=e("./map")}});

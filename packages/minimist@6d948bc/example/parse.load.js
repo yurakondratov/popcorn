@@ -1,1 +1,0 @@
-montageDefine("6d948bc","example/parse",{dependencies:["../"],factory:function(e,c,n){var a=e("../")(process.argv.slice(2));console.dir(a)}});

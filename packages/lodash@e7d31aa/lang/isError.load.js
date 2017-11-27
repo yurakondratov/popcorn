@@ -1,1 +1,0 @@
-montageDefine("e7d31aa","lang/isError",{dependencies:["../internal/isObjectLike"],factory:function(e,t,n){function r(e){return i(e)&&"string"==typeof e.message&&c.call(e)==o}var i=e("../internal/isObjectLike"),o="[object Error]",a=Object.prototype,c=a.toString;n.exports=r}});

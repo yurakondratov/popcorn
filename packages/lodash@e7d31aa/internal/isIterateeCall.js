@@ -1,1 +1,0 @@
-function isIterateeCall(e,r,t){if(!isObject(t))return!1;var i=typeof r;if("number"==i)var n=getLength(t),s=isLength(n)&&isIndex(r,n);else s="string"==i&&r in t;if(s){var g=t[r];return e===e?e===g:g!==g}return!1}var getLength=require("./getLength"),isIndex=require("./isIndex"),isLength=require("./isLength"),isObject=require("../lang/isObject");module.exports=isIterateeCall;

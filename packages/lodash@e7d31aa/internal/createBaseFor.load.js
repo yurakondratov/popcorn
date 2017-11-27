@@ -1,1 +1,0 @@
-montageDefine("e7d31aa","internal/createBaseFor",{dependencies:["./toObject"],factory:function(e,n,t){function r(e){return function(n,t,r){for(var o=a(n),c=r(n),f=c.length,i=e?f:-1;e?i--:++i<f;){var u=c[i];if(t(o[u],u,o)===!1)break}return n}}var a=e("./toObject");t.exports=r}});

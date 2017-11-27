@@ -1,1 +1,0 @@
-function isDate(t){return isObjectLike(t)&&objToString.call(t)==dateTag}var isObjectLike=require("../internal/isObjectLike"),dateTag="[object Date]",objectProto=Object.prototype,objToString=objectProto.toString;module.exports=isDate;

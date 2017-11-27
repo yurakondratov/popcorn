@@ -1,1 +1,0 @@
-montageDefine("e7d31aa","internal/cachePush",{dependencies:["../lang/isObject"],factory:function(e,a,n){function t(e){var a=this.data;"string"==typeof e||i(e)?a.set.add(e):a.hash[e]=!0}var i=e("../lang/isObject");n.exports=t}});

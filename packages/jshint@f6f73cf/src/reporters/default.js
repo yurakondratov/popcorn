@@ -1,1 +1,0 @@
-"use strict";module.exports={reporter:function(r,e,o){var n,c=r.length,l="";o=o||{},r.forEach(function(r){var e=r.file,c=r.error;n&&n!==e&&(l+="\n"),n=e,l+=e+": line "+c.line+", col "+c.character+", "+c.reason,o.verbose&&(l+=" ("+c.code+")"),l+="\n"}),l&&console.log(l+"\n"+c+" error"+(1===c?"":"s"))}};

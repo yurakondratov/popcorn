@@ -1,1 +1,0 @@
-montageDefine("2f81162","camel-case",{dependencies:["upper-case","no-case"],factory:function(e,n,c){var a=e("upper-case"),r=e("no-case");c.exports=function(e,n,c){var o=r(e,n);return c||(o=o.replace(/ (?=\d)/g,"_")),o.replace(/ (.)/g,function(e,c){return a(c,n)})}}});

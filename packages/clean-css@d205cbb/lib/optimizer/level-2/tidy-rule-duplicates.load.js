@@ -1,1 +1,0 @@
-montageDefine("d205cbb","lib/optimizer/level-2/tidy-rule-duplicates",{dependencies:[],factory:function(e,n,t){function r(e,n){return e[1]>n[1]?1:-1}function i(e){for(var n=[],t=[],i=0,o=e.length;i<o;i++){var u=e[i];t.indexOf(u[1])==-1&&(t.push(u[1]),n.push(u))}return n.sort(r)}t.exports=i}});

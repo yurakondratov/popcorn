@@ -1,1 +1,0 @@
-montageDefine("533f456","src/compressor.node",{dependencies:["./translator.js","./util.js"],factory:function(s,n,r){s("./translator.js").translator(),s("./util.js").cleanInfo;n.compress=function(s,n){return(new CSSOCompressor).compress(s,n)}}});

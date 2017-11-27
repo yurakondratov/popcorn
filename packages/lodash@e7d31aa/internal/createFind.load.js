@@ -1,1 +1,0 @@
-montageDefine("e7d31aa","internal/createFind",{dependencies:["./baseCallback","./baseFind","./baseFindIndex","../lang/isArray"],factory:function(n,e,a){function r(n,e){return function(a,r,b){if(r=i(r,b,3),s(a)){var c=t(a,r,e);return c>-1?a[c]:void 0}return d(a,r,n)}}var i=n("./baseCallback"),d=n("./baseFind"),t=n("./baseFindIndex"),s=n("../lang/isArray");a.exports=r}});

@@ -1,1 +1,0 @@
-function baseMap(e,a){var r=-1,t=getLength(e),n=isLength(t)?Array(t):[];return baseEach(e,function(e,t,g){n[++r]=a(e,t,g)}),n}var baseEach=require("./baseEach"),getLength=require("./getLength"),isLength=require("./isLength");module.exports=baseMap;

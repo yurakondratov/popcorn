@@ -1,1 +1,0 @@
-montageDefine("e7d31aa","internal/baseIsFunction",{dependencies:[],factory:function(n,e,t){function o(n){return"function"==typeof n||!1}t.exports=o}});

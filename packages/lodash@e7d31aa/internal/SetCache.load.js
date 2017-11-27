@@ -1,1 +1,0 @@
-montageDefine("e7d31aa","internal/SetCache",{dependencies:["./cachePush","../lang/isNative"],factory:function(e,a,t){function n(e){var a=e?e.length:0;for(this.data={hash:i(null),set:new c};a--;)this.push(e[a])}var h=e("./cachePush"),s=e("../lang/isNative"),c=s(c=global.Set)&&c,i=s(i=Object.create)&&i;n.prototype.push=h,t.exports=n}});

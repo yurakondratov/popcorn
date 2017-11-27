@@ -1,1 +1,0 @@
-montageDefine("423c844","test/static/index.html",{"text":"<!DOCTYPE html><html manifest=../../../../manifest.appcache><head><meta http-equiv=x-ua-compatible content=\"IE=8\"><title>TAPE Example</title><script src=/testem.js></script><script src=test-adapter.js></script><script src=bundle.js></script></head><body></body></html>"})

@@ -1,1 +1,0 @@
-montageDefine("d205cbb","lib/reader/rebase-remote-map",{dependencies:["path","url"],factory:function(e,r,n){function a(e,r){var n=t.dirname(r);return e.sources=e.sources.map(function(e){return o.resolve(n,e)}),e}var t=e("path"),o=e("url");n.exports=a}});

@@ -1,1 +1,0 @@
-var baseFlatten=require("../internal/baseFlatten"),createWrapper=require("../internal/createWrapper"),functions=require("../object/functions"),restParam=require("./restParam"),BIND_FLAG=1,bindAll=restParam(function(e,r){r=r.length?baseFlatten(r):functions(e);for(var a=-1,t=r.length;++a<t;){var n=r[a];e[n]=createWrapper(e[n],BIND_FLAG,e)}return e});module.exports=bindAll;

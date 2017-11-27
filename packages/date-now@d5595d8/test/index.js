@@ -1,1 +1,0 @@
-function within(e,t,i,n){e.ok(t+n>i),e.ok(t-n<i)}var test=require("tape"),setTimeout=require("timers").setTimeout,now=require("../index"),seeded=require("../seed");test("date",function(e){var t=now(),i=Date.now();e.equal(t,i),e.end()}),test("seeded",function(e){var t=seeded(40);t();within(e,t(),40,5),setTimeout(function(){within(e,t(),90,10),e.end()},50)});

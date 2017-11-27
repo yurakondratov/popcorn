@@ -1,1 +1,0 @@
-montageDefine("e7d31aa","object/create",{dependencies:["../internal/baseAssign","../internal/baseCreate","../internal/isIterateeCall"],factory:function(e,n,a){function t(e,n,a){var t=i(e);return a&&l(e,n,a)&&(n=null),n?r(t,n):t}var r=e("../internal/baseAssign"),i=e("../internal/baseCreate"),l=e("../internal/isIterateeCall");a.exports=t}});

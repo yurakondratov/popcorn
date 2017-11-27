@@ -1,1 +1,0 @@
-montageDefine("e7d31aa","string/kebabCase",{dependencies:["../internal/createCompounder"],factory:function(e,n,r){var a=e("../internal/createCompounder"),t=a(function(e,n,r){return e+(r?"-":"")+n.toLowerCase()});r.exports=t}});

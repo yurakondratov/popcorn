@@ -1,1 +1,0 @@
-function take(e,a,l){var r=e?e.length:0;return r?((l?isIterateeCall(e,a,l):null==a)&&(a=1),baseSlice(e,0,a<0?0:a)):[]}var baseSlice=require("../internal/baseSlice"),isIterateeCall=require("../internal/isIterateeCall");module.exports=take;

@@ -1,1 +1,0 @@
-function startsWith(t,n,e){return t=baseToString(t),e=null==e?0:nativeMin(e<0?0:+e||0,t.length),t.lastIndexOf(n,e)==e}var baseToString=require("../internal/baseToString"),nativeMin=Math.min;module.exports=startsWith;

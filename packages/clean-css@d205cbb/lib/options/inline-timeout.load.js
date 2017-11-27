@@ -1,1 +1,0 @@
-montageDefine("d205cbb","lib/options/inline-timeout",{dependencies:[],factory:function(e,n,i){function t(e){return e||o}var o=5e3;i.exports=t}});

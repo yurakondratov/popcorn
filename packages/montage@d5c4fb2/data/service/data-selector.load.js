@@ -1,1 +1,0 @@
-montageDefine("d5c4fb2","data/service/data-selector",{dependencies:["data/model/data-selector"],factory:function(e,a,t){var d=e("data/model/data-selector").DataSelector;a.DataSelector=d}});

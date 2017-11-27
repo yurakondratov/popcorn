@@ -1,1 +1,0 @@
-montageDefine("d5c4fb2","core/dom",{dependencies:["./extras/dom"],factory:function(e,o,d){e("./extras/dom")}});

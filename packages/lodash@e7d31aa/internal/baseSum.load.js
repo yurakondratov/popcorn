@@ -1,1 +1,0 @@
-montageDefine("e7d31aa","internal/baseSum",{dependencies:["./baseEach"],factory:function(e,n,a){function t(e,n){var a=0;return c(e,function(e,t,c){a+=+n(e,t,c)||0}),a}var c=e("./baseEach");a.exports=t}});

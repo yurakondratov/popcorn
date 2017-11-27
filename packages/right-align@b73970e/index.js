@@ -1,1 +1,0 @@
-"use strict";var align=require("align-text");module.exports=function(n){return align(n,function(n,r){return r-n})};

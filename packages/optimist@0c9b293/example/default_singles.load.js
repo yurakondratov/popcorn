@@ -1,1 +1,0 @@
-montageDefine("0c9b293","example/default_singles",{dependencies:["optimist"],factory:function(e,t,a){var i=e("optimist")["default"]("x",10)["default"]("y",10).argv;console.log(i.x+i.y)}});

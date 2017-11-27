@@ -1,1 +1,0 @@
-"use strict";var utils=require("./utils");module.exports=function(t){return utils.align(t,function(t,r){return Math.floor((r-t)/2)})};

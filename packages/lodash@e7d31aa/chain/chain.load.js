@@ -1,1 +1,0 @@
-montageDefine("e7d31aa","chain/chain",{dependencies:["./lodash"],factory:function(n,a,e){function c(n){var a=i(n);return a.__chain__=!0,a}var i=n("./lodash");e.exports=c}});

@@ -1,1 +1,0 @@
-montageDefine("a4e1d75","index",{dependencies:[],factory:function(n,e,t){"use strict";t.exports=function(n){if(!n)return null;var e=n.length;if(!e)return null;for(var t,r,i,u=0,f=0;f<e;f++)t=n[f].toString(),r=t.length,r>u&&(i=t,u=r);return i}}});

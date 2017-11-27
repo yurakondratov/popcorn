@@ -1,1 +1,0 @@
-montageDefine("e7d31aa","internal/baseSetData",{dependencies:["../utility/identity","./metaMap"],factory:function(t,e,a){var i=t("../utility/identity"),n=t("./metaMap"),r=n?function(t,e){return n.set(t,e),t}:i;a.exports=r}});

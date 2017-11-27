@@ -1,1 +1,0 @@
-var optimist=require("../"),test=require("tap").test;test("whitespace should be whitespace",function(t){t.plan(1);var e=optimist.parse(["-x","\t"]).x;t.equal(e,"\t")});

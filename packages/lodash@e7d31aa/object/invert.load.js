@@ -1,1 +1,0 @@
-montageDefine("e7d31aa","object/invert",{dependencies:["../internal/isIterateeCall","./keys"],factory:function(e,t,n){function r(e,t,n){n&&a(e,t,n)&&(t=null);for(var r=-1,o=l(e),s=o.length,c={};++r<s;){var p=o[r],f=e[p];t?i.call(c,f)?c[f].push(p):c[f]=[p]:c[f]=p}return c}var a=e("../internal/isIterateeCall"),l=e("./keys"),o=Object.prototype,i=o.hasOwnProperty;n.exports=r}});

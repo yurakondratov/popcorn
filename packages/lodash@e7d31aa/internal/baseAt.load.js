@@ -1,1 +1,0 @@
-montageDefine("e7d31aa","internal/baseAt",{dependencies:["./isIndex","./isLength"],factory:function(e,n,t){function r(e,n){for(var t=-1,r=e.length,o=i(r),s=n.length,d=Array(s);++t<s;){var f=n[t];o?d[t]=a(f,r)?e[f]:void 0:d[t]=e[f]}return d}var a=e("./isIndex"),i=e("./isLength");t.exports=r}});

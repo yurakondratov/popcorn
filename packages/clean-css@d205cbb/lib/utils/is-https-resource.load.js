@@ -1,1 +1,0 @@
-montageDefine("d205cbb","lib/utils/is-https-resource",{dependencies:[],factory:function(t,e,n){function s(t){return i.test(t)}var i=/^https:\/\//;n.exports=s}});

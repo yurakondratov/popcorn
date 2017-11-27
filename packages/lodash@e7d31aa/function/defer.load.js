@@ -1,1 +1,0 @@
-montageDefine("e7d31aa","function/defer",{dependencies:["../internal/baseDelay","./restParam"],factory:function(e,a,n){var r=e("../internal/baseDelay"),t=e("./restParam"),i=t(function(e,a){return r(e,1,a)});n.exports=i}});

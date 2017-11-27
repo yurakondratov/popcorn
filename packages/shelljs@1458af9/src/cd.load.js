@@ -1,1 +1,0 @@
-montageDefine("1458af9","src/cd",{dependencies:["fs","./common"],factory:function(r,o,e){function c(r,o){o||i.error("directory not specified"),n.existsSync(o)||i.error("no such file or directory: "+o),n.statSync(o).isDirectory()||i.error("not a directory: "+o),process.chdir(o)}var n=r("fs"),i=r("./common");e.exports=c}});

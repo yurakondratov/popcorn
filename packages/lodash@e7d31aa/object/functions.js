@@ -1,1 +1,0 @@
-function functions(n){return baseFunctions(n,keysIn(n))}var baseFunctions=require("../internal/baseFunctions"),keysIn=require("./keysIn");module.exports=functions;

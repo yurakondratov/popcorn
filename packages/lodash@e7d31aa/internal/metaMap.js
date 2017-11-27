@@ -1,1 +1,0 @@
-var isNative=require("../lang/isNative"),WeakMap=isNative(WeakMap=global.WeakMap)&&WeakMap,metaMap=WeakMap&&new WeakMap;module.exports=metaMap;
