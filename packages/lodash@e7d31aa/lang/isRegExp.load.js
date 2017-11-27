@@ -1,0 +1,1 @@
+montageDefine("e7d31aa","lang/isRegExp",{dependencies:["../internal/isObjectLike"],factory:function(e,t,n){function i(e){return a(e)&&r.call(e)==c||!1}var a=e("../internal/isObjectLike"),c="[object RegExp]",o=Object.prototype,r=o.toString;n.exports=i}});

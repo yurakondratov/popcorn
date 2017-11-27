@@ -1,0 +1,1 @@
+function unique(u){for(var e,n=[];null!==(e=VENDOR_PREFIX_PATTERN.exec(u));)n.indexOf(e[0])==-1&&n.push(e[0]);return n}function same(u,e){return unique(u).sort().join(",")==unique(e).sort().join(",")}var VENDOR_PREFIX_PATTERN=/(?:^|\W)(\-\w+\-)/g;module.exports={unique:unique,same:same};

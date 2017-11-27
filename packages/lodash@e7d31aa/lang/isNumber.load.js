@@ -1,0 +1,1 @@
+montageDefine("e7d31aa","lang/isNumber",{dependencies:["../internal/isObjectLike"],factory:function(e,t,n){function i(e){return"number"==typeof e||r(e)&&c.call(e)==o}var r=e("../internal/isObjectLike"),o="[object Number]",a=Object.prototype,c=a.toString;n.exports=i}});

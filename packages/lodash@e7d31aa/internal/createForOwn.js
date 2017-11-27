@@ -1,0 +1,1 @@
+function createForOwn(n){return function(r,e,a){return"function"==typeof e&&void 0===a||(e=bindCallback(e,a,3)),n(r,e)}}var bindCallback=require("./bindCallback");module.exports=createForOwn;

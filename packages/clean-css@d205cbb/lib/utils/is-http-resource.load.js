@@ -1,0 +1,1 @@
+montageDefine("d205cbb","lib/utils/is-http-resource",{dependencies:[],factory:function(t,e,n){function i(t){return r.test(t)}var r=/^http:\/\//;n.exports=i}});

@@ -1,0 +1,1 @@
+function arrayMin(I){for(var r=-1,a=I.length,N=POSITIVE_INFINITY;++r<a;){var n=I[r];n<N&&(N=n)}return N}var POSITIVE_INFINITY=Number.POSITIVE_INFINITY;module.exports=arrayMin;

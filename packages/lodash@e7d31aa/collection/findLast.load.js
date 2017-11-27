@@ -1,0 +1,1 @@
+montageDefine("e7d31aa","collection/findLast",{dependencies:["../internal/baseEachRight","../internal/createFind"],factory:function(e,n,a){var t=e("../internal/baseEachRight"),i=e("../internal/createFind"),c=i(t,!0);a.exports=c}});

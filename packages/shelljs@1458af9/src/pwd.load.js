@@ -1,0 +1,1 @@
+montageDefine("1458af9","src/pwd",{dependencies:["path","./common"],factory:function(e,n,o){function r(e){var n=c.resolve(process.cwd());return t.ShellString(n)}var c=e("path"),t=e("./common");o.exports=r}});

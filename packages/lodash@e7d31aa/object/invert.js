@@ -1,0 +1,1 @@
+function invert(e,r,t){t&&isIterateeCall(e,r,t)&&(r=null);for(var o=-1,a=keys(e),l=a.length,n={};++o<l;){var s=a[o],i=e[s];r?hasOwnProperty.call(n,i)?n[i].push(s):n[i]=[s]:n[i]=s}return n}var isIterateeCall=require("../internal/isIterateeCall"),keys=require("./keys"),objectProto=Object.prototype,hasOwnProperty=objectProto.hasOwnProperty;module.exports=invert;

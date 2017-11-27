@@ -1,0 +1,1 @@
+montageDefine("e7d31aa","lang/isArray",{dependencies:["../internal/isLength","./isNative","../internal/isObjectLike"],factory:function(e,t,n){var i=e("../internal/isLength"),r=e("./isNative"),a=e("../internal/isObjectLike"),s="[object Array]",c=Object.prototype,o=c.toString,l=r(l=Array.isArray)&&l,g=l||function(e){return a(e)&&i(e.length)&&o.call(e)==s};n.exports=g}});

@@ -1,0 +1,1 @@
+"use strict";function log(l){console.log(inspect(l,{depth:null,colors:!0}))}function logAll(l){console.log(inspect(l,{depth:null,showHidden:!0,colors:!0}))}var inspect=require("util").inspect;module.exports={log:log,logAll:logAll};

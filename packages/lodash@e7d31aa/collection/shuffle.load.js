@@ -1,0 +1,1 @@
+montageDefine("e7d31aa","collection/shuffle",{dependencies:["../internal/baseRandom","../internal/toIterable"],factory:function(e,n,a){function r(e){e=o(e);for(var n=-1,a=e.length,r=Array(a);++n<a;){var l=t(0,n);n!=l&&(r[n]=r[l]),r[l]=e[n]}return r}var t=e("../internal/baseRandom"),o=e("../internal/toIterable");a.exports=r}});

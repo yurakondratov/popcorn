@@ -1,0 +1,1 @@
+var dom=require("./level1/core").dom.level1.core;require("./lib/dom-level3"),require("./lib/extras"),module.exports=dom;

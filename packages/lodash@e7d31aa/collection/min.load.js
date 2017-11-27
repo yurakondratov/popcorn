@@ -1,0 +1,1 @@
+montageDefine("e7d31aa","collection/min",{dependencies:["../math/min"],factory:function(e,n,i){i.exports=e("../math/min")}});

@@ -1,0 +1,1 @@
+function escape(e){return e=baseToString(e),e&&reHasUnescapedHtml.test(e)?e.replace(reUnescapedHtml,escapeHtmlChar):e}var baseToString=require("../internal/baseToString"),escapeHtmlChar=require("../internal/escapeHtmlChar"),reUnescapedHtml=/[&<>"'`]/g,reHasUnescapedHtml=RegExp(reUnescapedHtml.source);module.exports=escape;

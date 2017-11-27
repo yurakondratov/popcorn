@@ -1,0 +1,1 @@
+montageDefine("d205cbb","lib/reader/rebase-local-map",{dependencies:["path"],factory:function(e,r,a){function n(e,r,a){var n=o.resolve(""),t=o.resolve(n,r),s=o.dirname(t);return e.sources=e.sources.map(function(e){return o.relative(a,o.resolve(s,e))}),e}var o=e("path");a.exports=n}});

@@ -1,0 +1,1 @@
+function rulesOverlap(r,e,t){var i,o,u,n,f,l;for(u=0,n=r.length;u<n;u++)for(i=r[u][1],f=0,l=e.length;f<l;f++){if(o=e[f][1],i==o)return!0;if(t&&withoutModifiers(i)==withoutModifiers(o))return!0}return!1}function withoutModifiers(r){return r.replace(MODIFIER_PATTERN,"")}var MODIFIER_PATTERN=/\-\-.+$/;module.exports=rulesOverlap;

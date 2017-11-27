@@ -1,0 +1,1 @@
+function repeat(e,r){var i="";if(e=baseToString(e),r=+r,r<1||!e||!nativeIsFinite(r))return i;do r%2&&(i+=e),r=floor(r/2),e+=e;while(r);return i}var baseToString=require("../internal/baseToString"),floor=Math.floor,nativeIsFinite=global.isFinite;module.exports=repeat;

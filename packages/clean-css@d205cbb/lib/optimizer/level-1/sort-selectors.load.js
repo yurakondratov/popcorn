@@ -1,0 +1,1 @@
+montageDefine("d205cbb","lib/optimizer/level-1/sort-selectors",{dependencies:["../../utils/natural-compare"],factory:function(e,r,t){function n(e,r){return o(e[1],r[1])}function a(e,r){return e[1]>r[1]?1:-1}function c(e,r){switch(r){case"natural":return e.sort(n);case"standard":return e.sort(a);case"none":case!1:return e}}var o=e("../../utils/natural-compare");t.exports=c}});

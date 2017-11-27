@@ -1,0 +1,1 @@
+montageDefine("0c9b293","example/nonopt",{dependencies:["optimist"],factory:function(o,e,n){var t=o("optimist").argv;console.log("(%d,%d)",t.x,t.y),console.log(t._)}});

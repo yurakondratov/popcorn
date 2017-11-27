@@ -1,0 +1,1 @@
+function baseValues(e,r){for(var a=-1,s=r.length,u=Array(s);++a<s;)u[a]=e[r[a]];return u}module.exports=baseValues;

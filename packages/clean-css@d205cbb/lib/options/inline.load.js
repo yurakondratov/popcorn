@@ -1,0 +1,1 @@
+montageDefine("d205cbb","lib/options/inline",{dependencies:[],factory:function(n,e,i){function o(n){return Array.isArray(n)?n:n===!1?["none"]:void 0===n?["local"]:n.split(",")}i.exports=o}});

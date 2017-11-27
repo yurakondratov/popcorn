@@ -1,0 +1,1 @@
+montageDefine("e7d31aa","internal/initCloneObject",{dependencies:[],factory:function(n,e,t){function o(n){var e=n.constructor;return"function"==typeof e&&e instanceof e||(e=Object),new e}t.exports=o}});

@@ -1,0 +1,1 @@
+function first(r){return r?r[0]:void 0}module.exports=first;

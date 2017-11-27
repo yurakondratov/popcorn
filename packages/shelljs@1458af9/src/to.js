@@ -1,0 +1,1 @@
+function _to(o,r){r||common.error("wrong arguments"),fs.existsSync(path.dirname(r))||common.error("no such file or directory: "+path.dirname(r));try{fs.writeFileSync(r,this.toString(),"utf8")}catch(e){common.error("could not write to file (code "+e.code+"): "+r,!0)}}var common=require("./common"),fs=require("fs"),path=require("path");module.exports=_to;

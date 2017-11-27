@@ -1,0 +1,1 @@
+function uniqueId(e){var r=++idCounter;return baseToString(e)+r}var baseToString=require("../internal/baseToString"),idCounter=0;module.exports=uniqueId;

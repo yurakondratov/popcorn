@@ -1,0 +1,1 @@
+function LodashWrapper(e,a,r){this.__wrapped__=e,this.__actions__=r||[],this.__chain__=!!a}var baseCreate=require("./baseCreate"),baseLodash=require("./baseLodash");LodashWrapper.prototype=baseCreate(baseLodash.prototype),LodashWrapper.prototype.constructor=LodashWrapper,module.exports=LodashWrapper;

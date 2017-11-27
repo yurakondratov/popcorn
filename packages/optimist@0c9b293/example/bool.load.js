@@ -1,0 +1,1 @@
+montageDefine("0c9b293","example/bool",{dependencies:["util","optimist"],factory:function(e,t,i){var o=e("util"),a=e("optimist").argv;a.s&&o.print(a.fr?"Le chat dit: ":"The cat says: "),console.log((a.fr?"miaou":"meow")+(a.p?".":""))}});

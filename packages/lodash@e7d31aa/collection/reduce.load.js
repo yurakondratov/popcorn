@@ -1,0 +1,1 @@
+montageDefine("e7d31aa","collection/reduce",{dependencies:["../internal/arrayReduce","../internal/baseEach","../internal/createReduce"],factory:function(e,a,n){var r=e("../internal/arrayReduce"),c=e("../internal/baseEach"),t=e("../internal/createReduce"),i=t(r,c);n.exports=i}});

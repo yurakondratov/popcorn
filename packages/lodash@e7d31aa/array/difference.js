@@ -1,0 +1,1 @@
+var baseDifference=require("../internal/baseDifference"),baseFlatten=require("../internal/baseFlatten"),isArguments=require("../lang/isArguments"),isArray=require("../lang/isArray"),restParam=require("../function/restParam"),difference=restParam(function(e,r){return isArray(e)||isArguments(e)?baseDifference(e,baseFlatten(r,!1,!0)):[]});module.exports=difference;

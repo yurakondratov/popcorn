@@ -1,0 +1,1 @@
+function extremumBy(I,N,e){var r=e?POSITIVE_INFINITY:NEGATIVE_INFINITY,E=r,T=E;return baseEach(I,function(I,a,u){var m=N(I,a,u);((e?m<E:m>E)||m===r&&m===T)&&(E=m,T=I)}),T}var baseEach=require("./baseEach"),NEGATIVE_INFINITY=Number.NEGATIVE_INFINITY,POSITIVE_INFINITY=Number.POSITIVE_INFINITY;module.exports=extremumBy;

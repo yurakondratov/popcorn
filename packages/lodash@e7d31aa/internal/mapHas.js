@@ -1,0 +1,1 @@
+function mapHas(o){return"__proto__"!=o&&hasOwnProperty.call(this.__data__,o)}var objectProto=Object.prototype,hasOwnProperty=objectProto.hasOwnProperty;module.exports=mapHas;

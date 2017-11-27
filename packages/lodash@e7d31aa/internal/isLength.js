@@ -1,0 +1,1 @@
+function isLength(e){return"number"==typeof e&&e>-1&&e%1==0&&e<=MAX_SAFE_INTEGER}var MAX_SAFE_INTEGER=Math.pow(2,53)-1;module.exports=isLength;

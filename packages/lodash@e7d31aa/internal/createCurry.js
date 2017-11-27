@@ -1,0 +1,1 @@
+function createCurry(e){function r(l,a,t){t&&isIterateeCall(l,a,t)&&(a=null);var u=createWrapper(l,e,null,null,null,null,null,a);return u.placeholder=r.placeholder,u}return r}var createWrapper=require("./createWrapper"),isIterateeCall=require("./isIterateeCall");module.exports=createCurry;

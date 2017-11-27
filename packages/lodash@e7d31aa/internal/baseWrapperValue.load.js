@@ -1,0 +1,1 @@
+montageDefine("e7d31aa","internal/baseWrapperValue",{dependencies:["./LazyWrapper"],factory:function(a,r,e){function n(a,r){var e=a;e instanceof p&&(e=e.value());for(var n=-1,t=r.length;++n<t;){var f=[e],i=r[n];o.apply(f,i.args),e=i.func.apply(i.thisArg,f)}return e}var p=a("./LazyWrapper"),t=Array.prototype,o=t.push;e.exports=n}});

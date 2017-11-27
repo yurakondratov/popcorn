@@ -1,0 +1,1 @@
+montageDefine("e7d31aa","string/startsWith",{dependencies:["../internal/baseToString"],factory:function(n,t,e){function a(n,t,e){return n=i(n),e=null==e?0:r(e<0?0:+e||0,n.length),n.lastIndexOf(t,e)==e}var i=n("../internal/baseToString"),r=Math.min;e.exports=a}});

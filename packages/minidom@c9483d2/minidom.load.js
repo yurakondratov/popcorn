@@ -1,0 +1,1 @@
+montageDefine("c9483d2","minidom",{dependencies:["parse5","./handler","./dom"],factory:function(e,n,d){var r=e("parse5").Parser,a=e("./handler"),o=e("./dom");d.exports=function(e){e||(e="<!doctype html><html><head></head><body></body></html>");var n=new a(o),d=new r(n);return d.parse(e),n.document}}});

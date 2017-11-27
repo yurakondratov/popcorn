@@ -1,0 +1,1 @@
+montageDefine("e7d31aa","object/forIn",{dependencies:["../internal/baseFor","../internal/createForIn"],factory:function(e,n,r){var a=e("../internal/baseFor"),t=e("../internal/createForIn"),o=t(a);r.exports=o}});

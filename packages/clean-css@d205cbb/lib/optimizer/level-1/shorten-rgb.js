@@ -1,0 +1,1 @@
+function shortenRgb(t,a,n){var r=Math.max(0,Math.min(parseInt(t),255)),e=Math.max(0,Math.min(parseInt(a),255)),h=Math.max(0,Math.min(parseInt(n),255));return"#"+("00000"+(r<<16|e<<8|h).toString(16)).slice(-6)}module.exports=shortenRgb;

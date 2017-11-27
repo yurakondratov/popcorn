@@ -1,0 +1,1 @@
+montageDefine("e7d31aa","array/union",{dependencies:["../internal/baseFlatten","../internal/baseUniq","../function/restParam"],factory:function(n,e,a){var t=n("../internal/baseFlatten"),r=n("../internal/baseUniq"),i=n("../function/restParam"),o=i(function(n){return r(t(n,!1,!0))});a.exports=o}});

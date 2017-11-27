@@ -1,0 +1,1 @@
+function before(e,n){var r;if("function"!=typeof n){if("function"!=typeof e)throw new TypeError(FUNC_ERROR_TEXT);var o=e;e=n,n=o}return function(){return--e>0&&(r=n.apply(this,arguments)),e<=1&&(n=null),r}}var FUNC_ERROR_TEXT="Expected a function";module.exports=before;

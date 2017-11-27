@@ -1,0 +1,1 @@
+montageDefine("e7d31aa","internal/baseRandom",{dependencies:[],factory:function(n,e,a){function o(n,e){return n+t(r()*(e-n+1))}var t=Math.floor,r=Math.random;a.exports=o}});

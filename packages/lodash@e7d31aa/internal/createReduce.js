@@ -1,0 +1,1 @@
+function createReduce(e,r){return function(a,u,c,i){var n=arguments.length<3;return"function"==typeof u&&void 0===i&&isArray(a)?e(a,u,c,n):baseReduce(a,baseCallback(u,i,4),c,n,r)}}var baseCallback=require("./baseCallback"),baseReduce=require("./baseReduce"),isArray=require("../lang/isArray");module.exports=createReduce;

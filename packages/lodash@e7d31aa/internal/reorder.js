@@ -1,0 +1,1 @@
+function reorder(r,e){for(var n=r.length,a=nativeMin(e.length,n),i=arrayCopy(r);a--;){var o=e[a];r[a]=isIndex(o,n)?i[o]:void 0}return r}var arrayCopy=require("./arrayCopy"),isIndex=require("./isIndex"),nativeMin=Math.min;module.exports=reorder;

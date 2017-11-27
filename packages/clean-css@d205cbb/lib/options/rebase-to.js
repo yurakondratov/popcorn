@@ -1,0 +1,1 @@
+function rebaseToFrom(e){return e?path.resolve(e):process.cwd()}var path=require("path");module.exports=rebaseToFrom;

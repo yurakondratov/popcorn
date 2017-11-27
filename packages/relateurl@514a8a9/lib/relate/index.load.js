@@ -1,0 +1,1 @@
+montageDefine("514a8a9","lib/relate/index",{dependencies:["./absolutize","./relativize"],factory:function(e,i,t){"use strict";function a(e,i,t){return n(i,e,t),r(i,e,t),i}var n=e("./absolutize"),r=e("./relativize");t.exports=a}});

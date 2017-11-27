@@ -1,1 +1,0 @@
-montageDefine("891a5ba","window-loader/index.html",{"text":"<!DOCTYPE html><html manifest=../../../manifest.appcache><head><meta http-equiv=Content-Type content=\"text/html; charset=utf-8\"><title>Montage Window</title><script src=../../montage.js data-auto-package=\"\" data-module=window-loader></script></head><body></body></html>"})

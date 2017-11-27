@@ -1,0 +1,1 @@
+var createCompounder=require("../internal/createCompounder"),camelCase=createCompounder(function(e,r,a){return r=r.toLowerCase(),e+(a?r.charAt(0).toUpperCase()+r.slice(1):r)});module.exports=camelCase;

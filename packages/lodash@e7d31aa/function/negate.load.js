@@ -1,0 +1,1 @@
+montageDefine("e7d31aa","function/negate",{dependencies:[],factory:function(n,e,t){function o(n){if("function"!=typeof n)throw new TypeError(r);return function(){return!n.apply(this,arguments)}}var r="Expected a function";t.exports=o}});

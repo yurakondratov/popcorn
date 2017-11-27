@@ -1,0 +1,1 @@
+montageDefine("d205cbb","lib/optimizer/level-2/properties/has-inherit",{dependencies:[],factory:function(e,i,n){function r(e){for(var i=e.value.length-1;i>=0;i--)if("inherit"==e.value[i][1])return!0;return!1}n.exports=r}});

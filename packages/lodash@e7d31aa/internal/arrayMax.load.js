@@ -1,0 +1,1 @@
+montageDefine("e7d31aa","internal/arrayMax",{dependencies:[],factory:function(e,n,r){function a(e){for(var n=-1,r=e.length,a=t;++n<r;){var o=e[n];o>a&&(a=o)}return a}var t=Number.NEGATIVE_INFINITY;r.exports=a}});

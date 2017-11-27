@@ -1,0 +1,1 @@
+"use strict";function relateUrl(e,r,i){return absolutize(r,e,i),relativize(r,e,i),r}var absolutize=require("./absolutize"),relativize=require("./relativize");module.exports=relateUrl;

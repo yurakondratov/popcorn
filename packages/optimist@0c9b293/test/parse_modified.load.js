@@ -1,0 +1,1 @@
+montageDefine("0c9b293","test/parse_modified",{dependencies:["../","tap"],factory:function(e,n,t){function a(e){return delete e.$0,e}var i=e("../"),o=e("tap").test;o("parse with modifier functions",function(e){e.plan(1);var n=i()["boolean"]("b").parse(["-b","123"]);e.deepEqual(a(n),{b:!0,_:["123"]})})}});

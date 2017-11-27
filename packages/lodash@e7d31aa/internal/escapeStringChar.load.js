@@ -1,0 +1,1 @@
+montageDefine("e7d31aa","internal/escapeStringChar",{dependencies:[],factory:function(e,n,r){function a(e){return"\\"+t[e]}var t={"\\":"\\","'":"'","\n":"n","\r":"r","\u2028":"u2028","\u2029":"u2029"};r.exports=a}});

@@ -1,0 +1,1 @@
+montageDefine("e7d31aa","function/wrap",{dependencies:["../internal/createWrapper","../utility/identity"],factory:function(e,n,t){function i(e,n){return n=null==n?a:n,r(n,l,null,[e],[])}var r=e("../internal/createWrapper"),a=e("../utility/identity"),l=32;t.exports=i}});

@@ -1,0 +1,1 @@
+montageDefine("e7d31aa","array/last",{dependencies:[],factory:function(e,n,a){function t(e){var n=e?e.length:0;return n?e[n-1]:void 0}a.exports=t}});

@@ -1,0 +1,1 @@
+function isBoolean(o){return o===!0||o===!1||isObjectLike(o)&&objToString.call(o)==boolTag}var isObjectLike=require("../internal/isObjectLike"),boolTag="[object Boolean]",objectProto=Object.prototype,objToString=objectProto.toString;module.exports=isBoolean;

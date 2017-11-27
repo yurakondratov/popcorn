@@ -1,0 +1,1 @@
+montageDefine("c9483d2","dom/level2/languages/javascript",{dependencies:[],factory:function(e,n,r){n.javascript=function(e,n,r){var a=e.ownerDocument,i=a&&a.parentWindow;if(i)try{i.run(n,r)}catch(c){e.raise("error","Running "+r+" failed.",{error:c,filename:r})}}}});

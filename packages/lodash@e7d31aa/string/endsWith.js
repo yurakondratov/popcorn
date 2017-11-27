@@ -1,0 +1,1 @@
+function endsWith(n,e,i){n=baseToString(n),e+="";var t=n.length;return i=void 0===i?t:nativeMin(i<0?0:+i||0,t),i-=e.length,i>=0&&n.indexOf(e,i)==i}var baseToString=require("../internal/baseToString"),nativeMin=Math.min;module.exports=endsWith;

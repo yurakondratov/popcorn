@@ -1,0 +1,1 @@
+function toPlainObject(e){return baseCopy(e,keysIn(e))}var baseCopy=require("../internal/baseCopy"),keysIn=require("../object/keysIn");module.exports=toPlainObject;

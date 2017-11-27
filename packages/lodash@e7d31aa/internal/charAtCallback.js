@@ -1,0 +1,1 @@
+function charAtCallback(a){return a.charCodeAt(0)}module.exports=charAtCallback;

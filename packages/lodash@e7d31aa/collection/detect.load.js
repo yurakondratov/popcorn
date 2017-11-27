@@ -1,0 +1,1 @@
+montageDefine("e7d31aa","collection/detect",{dependencies:["./find"],factory:function(e,n,t){t.exports=e("./find")}});

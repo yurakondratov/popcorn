@@ -1,0 +1,1 @@
+$util.printTree=function(e){require("sys").print($util.treeToString(e))},exports.cleanInfo=$util.cleanInfo,exports.treeToString=$util.treeToString,exports.printTree=$util.printTree;

@@ -1,0 +1,1 @@
+function assignOwnDefaults(o,t,r,e){return void 0!==o&&hasOwnProperty.call(e,r)?o:t}var objectProto=Object.prototype,hasOwnProperty=objectProto.hasOwnProperty;module.exports=assignOwnDefaults;

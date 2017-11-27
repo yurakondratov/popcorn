@@ -1,0 +1,1 @@
+montageDefine("0c9b293","test/short",{dependencies:["../index","tap"],factory:function(e,n,a){var t=e("../index"),i=e("tap").test;i("-n123",function(e){e.plan(1);var n=t.parse(["-n123"]);e.equal(n.n,123)}),i("-123",function(e){e.plan(3);var n=t.parse(["-123","456"]);e.equal(n[1],!0),e.equal(n[2],!0),e.equal(n[3],456)})}});

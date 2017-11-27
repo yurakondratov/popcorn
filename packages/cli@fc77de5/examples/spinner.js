@@ -1,0 +1,1 @@
+var cli=require("cli");cli.spinner("Working.."),setTimeout(function(){cli.spinner("Working.. done!",!0)},3e3);

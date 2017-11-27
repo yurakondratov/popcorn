@@ -1,0 +1,1 @@
+function values(e){return baseValues(e,keys(e))}var baseValues=require("../internal/baseValues"),keys=require("./keys");module.exports=values;

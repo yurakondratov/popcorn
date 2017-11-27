@@ -1,0 +1,1 @@
+function isRemoteResource(e){return REMOTE_RESOURCE_PATTERN.test(e)}var REMOTE_RESOURCE_PATTERN=/^(\w+:\/\/|\/\/)/;module.exports=isRemoteResource;

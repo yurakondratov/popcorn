@@ -1,0 +1,1 @@
+montageDefine("e7d31aa","math/max",{dependencies:["../internal/arrayMax","../internal/createExtremum"],factory:function(a,e,r){var n=a("../internal/arrayMax"),t=a("../internal/createExtremum"),i=t(n);r.exports=i}});

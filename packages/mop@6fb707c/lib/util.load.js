@@ -1,0 +1,1 @@
+montageDefine("6fb707c","lib/util",{dependencies:["url2"],factory:function(e,o,n){function r(e){return t.relative(i,e)}var t=e("url2"),i=t.format({protocol:"file:",slashes:!0,pathname:process.cwd()+"/"});o.relativeToWorkingLocation=r}});

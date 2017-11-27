@@ -1,0 +1,1 @@
+function trimmedRightIndex(e){for(var r=e.length;r--&&isSpace(e.charCodeAt(r)););return r}var isSpace=require("./isSpace");module.exports=trimmedRightIndex;

@@ -1,0 +1,1 @@
+montageDefine("d205cbb","lib/utils/has-protocol",{dependencies:[],factory:function(e,t,n){function o(e){return!c.test(e)}var c=/^\/\//;n.exports=o}});

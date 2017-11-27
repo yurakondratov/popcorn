@@ -1,0 +1,1 @@
+function toObject(e){return isObject(e)?e:Object(e)}var isObject=require("../lang/isObject");module.exports=toObject;

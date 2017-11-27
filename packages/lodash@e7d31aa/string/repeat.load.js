@@ -1,0 +1,1 @@
+montageDefine("e7d31aa","string/repeat",{dependencies:["../internal/baseToString"],factory:function(e,n,r){function t(e,n){var r="";if(e=i(e),n=+n,n<1||!e||!o(n))return r;do n%2&&(r+=e),n=a(n/2),e+=e;while(n);return r}var i=e("../internal/baseToString"),a=Math.floor,o=global.isFinite;r.exports=t}});

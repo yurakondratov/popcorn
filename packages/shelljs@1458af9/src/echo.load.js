@@ -1,0 +1,1 @@
+montageDefine("1458af9","src/echo",{dependencies:["./common"],factory:function(n,o,e){function c(){var n=[].slice.call(arguments,0);return console.log.apply(this,n),i.ShellString(n.join(" "))}var i=n("./common");e.exports=c}});

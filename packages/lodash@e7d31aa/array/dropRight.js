@@ -1,0 +1,1 @@
+function dropRight(e,r,l){var t=e?e.length:0;return t?((l?isIterateeCall(e,r,l):null==r)&&(r=1),r=t-(+r||0),baseSlice(e,0,r<0?0:r)):[]}var baseSlice=require("../internal/baseSlice"),isIterateeCall=require("../internal/isIterateeCall");module.exports=dropRight;

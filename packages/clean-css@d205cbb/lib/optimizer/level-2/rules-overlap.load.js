@@ -1,0 +1,1 @@
+montageDefine("d205cbb","lib/optimizer/level-2/rules-overlap",{dependencies:[],factory:function(e,r,n){function t(e,r,n){var t,o,f,l,u,c;for(f=0,l=e.length;f<l;f++)for(t=e[f][1],u=0,c=r.length;u<c;u++){if(o=r[u][1],t==o)return!0;if(n&&i(t)==i(o))return!0}return!1}function i(e){return e.replace(o,"")}var o=/\-\-.+$/;n.exports=t}});

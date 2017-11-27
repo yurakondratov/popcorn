@@ -1,0 +1,1 @@
+function baseIsMatch(e,r,a,s,i){for(var u=-1,n=r.length,o=!i;++u<n;)if(o&&s[u]?a[u]!==e[r[u]]:!(r[u]in e))return!1;for(u=-1;++u<n;){var t=r[u],v=e[t],f=a[u];if(o&&s[u])var l=void 0!==v||t in e;else l=i?i(v,f,t):void 0,void 0===l&&(l=baseIsEqual(f,v,i,!0));if(!l)return!1}return!0}var baseIsEqual=require("./baseIsEqual");module.exports=baseIsMatch;

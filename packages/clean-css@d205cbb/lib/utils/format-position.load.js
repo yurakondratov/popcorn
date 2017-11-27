@@ -1,0 +1,1 @@
+montageDefine("d205cbb","lib/utils/format-position",{dependencies:[],factory:function(n,e,t){function i(n){var e=n[0],t=n[1],i=n[2];return i?i+":"+e+":"+t:e+":"+t}t.exports=i}});

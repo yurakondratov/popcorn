@@ -1,0 +1,1 @@
+function isEqual(a,i,r,e){if(r="function"==typeof r&&bindCallback(r,e,3),!r&&isStrictComparable(a)&&isStrictComparable(i))return a===i;var l=r?r(a,i):void 0;return void 0===l?baseIsEqual(a,i,r):!!l}var baseIsEqual=require("../internal/baseIsEqual"),bindCallback=require("../internal/bindCallback"),isStrictComparable=require("../internal/isStrictComparable");module.exports=isEqual;

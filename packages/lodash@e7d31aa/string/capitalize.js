@@ -1,0 +1,1 @@
+function capitalize(e){return e=baseToString(e),e&&e.charAt(0).toUpperCase()+e.slice(1)}var baseToString=require("../internal/baseToString");module.exports=capitalize;

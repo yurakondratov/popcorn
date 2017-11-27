@@ -1,0 +1,1 @@
+function rest(r){return drop(r,1)}var drop=require("./drop");module.exports=rest;

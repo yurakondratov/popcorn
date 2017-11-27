@@ -1,0 +1,1 @@
+function baseIsFunction(n){return"function"==typeof n||!1}module.exports=baseIsFunction;

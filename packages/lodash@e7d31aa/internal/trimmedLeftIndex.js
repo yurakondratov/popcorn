@@ -1,0 +1,1 @@
+function trimmedLeftIndex(e){for(var r=-1,t=e.length;++r<t&&isSpace(e.charCodeAt(r)););return r}var isSpace=require("./isSpace");module.exports=trimmedLeftIndex;

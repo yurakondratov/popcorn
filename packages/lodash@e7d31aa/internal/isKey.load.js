@@ -1,0 +1,1 @@
+montageDefine("e7d31aa","internal/isKey",{dependencies:["../lang/isArray","./toObject"],factory:function(e,n,t){function r(e,n){var t=typeof e;if("string"==t&&s.test(e)||"number"==t)return!0;if(a(e))return!1;var r=!o.test(e);return r||null!=n&&e in i(n)}var a=e("../lang/isArray"),i=e("./toObject"),o=/\.|\[(?:[^[\]]+|(["'])(?:(?!\1)[^\n\\]|\\.)*?)\1\]/,s=/^\w*$/;t.exports=r}});

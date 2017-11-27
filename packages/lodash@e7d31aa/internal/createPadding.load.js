@@ -1,0 +1,1 @@
+montageDefine("e7d31aa","internal/createPadding",{dependencies:["../string/repeat"],factory:function(e,n,t){function r(e,n,t){var r=e.length;if(n=+n,r>=n||!l(n))return"";var c=n-r;return t=null==t?" ":t+"",a(t,i(c/t.length)).slice(0,c)}var a=e("../string/repeat"),i=Math.ceil,l=global.isFinite;t.exports=r}});

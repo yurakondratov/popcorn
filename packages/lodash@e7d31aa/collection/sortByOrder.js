@@ -1,0 +1,1 @@
+function sortByOrder(r,e,l,a){return null==r?[]:(a&&isIterateeCall(e,l,a)&&(l=null),isArray(e)||(e=null==e?[]:[e]),isArray(l)||(l=null==l?[]:[l]),baseSortByOrder(r,e,l))}var baseSortByOrder=require("../internal/baseSortByOrder"),isArray=require("../lang/isArray"),isIterateeCall=require("../internal/isIterateeCall");module.exports=sortByOrder;

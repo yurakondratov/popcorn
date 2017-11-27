@@ -1,0 +1,1 @@
+var arrayMin=require("../internal/arrayMin"),createExtremum=require("../internal/createExtremum"),min=createExtremum(arrayMin,!0);module.exports=min;

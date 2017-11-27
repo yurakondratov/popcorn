@@ -1,0 +1,1 @@
+function error(){return common.state.error}var common=require("./common");module.exports=error;

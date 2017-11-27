@@ -1,0 +1,1 @@
+function baseGet(e,t,r){if(null!=e){void 0!==r&&r in toObject(e)&&(t=[r]);for(var o=-1,n=t.length;null!=e&&++o<n;)var l=e=e[t[o]];return l}}var toObject=require("./toObject");module.exports=baseGet;

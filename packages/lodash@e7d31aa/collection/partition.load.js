@@ -1,0 +1,1 @@
+montageDefine("e7d31aa","collection/partition",{dependencies:["../internal/createAggregator"],factory:function(e,n,t){var r=e("../internal/createAggregator"),a=r(function(e,n,t){e[t?0:1].push(n)},function(){return[[],[]]});t.exports=a}});

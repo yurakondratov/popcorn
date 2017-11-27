@@ -1,0 +1,1 @@
+montageDefine("d205cbb","lib/utils/is-remote-resource",{dependencies:[],factory:function(e,t,n){function r(e){return i.test(e)}var i=/^(\w+:\/\/|\/\/)/;n.exports=r}});

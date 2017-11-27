@@ -1,0 +1,1 @@
+function baseCompareAscending(e,r){if(e!==r){var n=e===e,i=r===r;if(e>r||!n||void 0===e&&i)return 1;if(e<r||!i||void 0===r&&n)return-1}return 0}module.exports=baseCompareAscending;

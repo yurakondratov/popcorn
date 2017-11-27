@@ -1,0 +1,1 @@
+montageDefine("e7d31aa","function/after",{dependencies:[],factory:function(n,e,t){function i(n,e){if("function"!=typeof e){if("function"!=typeof n)throw new TypeError(f);var t=n;n=e,e=t}return n=o(n=+n)?n:0,function(){if(--n<1)return e.apply(this,arguments)}}var f="Expected a function",o=global.isFinite;t.exports=i}});

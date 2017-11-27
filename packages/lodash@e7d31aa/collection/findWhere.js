@@ -1,0 +1,1 @@
+function findWhere(e,r){return find(e,baseMatches(r))}var baseMatches=require("../internal/baseMatches"),find=require("./find");module.exports=findWhere;

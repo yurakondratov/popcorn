@@ -1,0 +1,1 @@
+montageDefine("c9483d2","dom/level3/events",{dependencies:["../level2/events"],factory:function(e,n,v){var l=e("../level2/events").dom.level2.events;l=Object.create(l),n.dom={level3:{events:l}}}});

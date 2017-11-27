@@ -1,0 +1,1 @@
+montageDefine("e7d31aa","internal/createCurry",{dependencies:["./createWrapper","./isIterateeCall"],factory:function(e,r,l){function n(e){function r(l,n,u){u&&t(l,n,u)&&(n=null);var c=a(l,e,null,null,null,null,null,n);return c.placeholder=r.placeholder,c}return r}var a=e("./createWrapper"),t=e("./isIterateeCall");l.exports=n}});

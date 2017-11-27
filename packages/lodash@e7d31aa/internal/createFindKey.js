@@ -1,0 +1,1 @@
+function createFindKey(e){return function(a,r,n){return r=baseCallback(r,n,3),baseFind(a,r,e,!0)}}var baseCallback=require("./baseCallback"),baseFind=require("./baseFind");module.exports=createFindKey;

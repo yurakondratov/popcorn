@@ -1,0 +1,1 @@
+montageDefine("e7d31aa","internal/createPartial",{dependencies:["./createWrapper","./replaceHolders","../function/restParam"],factory:function(e,r,a){function n(e){var r=o(function(a,n){var o=c(n,r.placeholder);return t(a,e,null,n,o)});return r}var t=e("./createWrapper"),c=e("./replaceHolders"),o=e("../function/restParam");a.exports=n}});

@@ -1,0 +1,1 @@
+montageDefine("e7d31aa","array/zipObject",{dependencies:["../lang/isArray"],factory:function(r,a,e){function n(r,a){var e=-1,n=r?r.length:0,i={};for(!n||a||t(r[0])||(a=[]);++e<n;){var o=r[e];a?i[o]=a[e]:o&&(i[o[0]]=o[1])}return i}var t=r("../lang/isArray");e.exports=n}});

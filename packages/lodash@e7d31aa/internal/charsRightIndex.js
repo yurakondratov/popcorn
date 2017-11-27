@@ -1,0 +1,1 @@
+function charsRightIndex(r,e){for(var n=r.length;n--&&e.indexOf(r.charAt(n))>-1;);return n}module.exports=charsRightIndex;

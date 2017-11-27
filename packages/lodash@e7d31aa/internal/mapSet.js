@@ -1,0 +1,1 @@
+function mapSet(t,_){return"__proto__"!=t&&(this.__data__[t]=_),this}module.exports=mapSet;

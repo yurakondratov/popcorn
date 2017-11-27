@@ -1,0 +1,1 @@
+montageDefine("d205cbb","lib/optimizer/level-2/restore-with-components",{dependencies:["./compactable"],factory:function(e,t,n){function o(e){var t=r[e.name];return t&&t.shorthand?t.restore(e,r):e.value}var r=e("./compactable");n.exports=o}});

@@ -1,0 +1,1 @@
+montageDefine("b20a918","param-case",{dependencies:["no-case"],factory:function(e,n,a){var c=e("no-case");a.exports=function(e,n){return c(e,n,"-")}}});

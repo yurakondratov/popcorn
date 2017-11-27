@@ -1,0 +1,1 @@
+montageDefine("514a8a9","lib/util/devlog",{dependencies:["util"],factory:function(o,l,e){"use strict";function n(o){console.log(i(o,{depth:null,colors:!0}))}function t(o){console.log(i(o,{depth:null,showHidden:!0,colors:!0}))}var i=o("util").inspect;e.exports={log:n,logAll:t}}});

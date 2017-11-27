@@ -1,0 +1,1 @@
+function isDataUriResource(e){return DATA_URI_PATTERN.test(e)}var DATA_URI_PATTERN=/^data:(\S*?)?(;charset=[^;]+)?(;[^,]+?)?,(.+)/;module.exports=isDataUriResource;

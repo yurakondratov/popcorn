@@ -1,0 +1,1 @@
+function takeRight(e,t,a){var l=e?e.length:0;return l?((a?isIterateeCall(e,t,a):null==t)&&(t=1),t=l-(+t||0),baseSlice(e,t<0?0:t)):[]}var baseSlice=require("../internal/baseSlice"),isIterateeCall=require("../internal/isIterateeCall");module.exports=takeRight;

@@ -1,0 +1,1 @@
+montageDefine("e7d31aa","collection/foldr",{dependencies:["./reduceRight"],factory:function(e,c,n){n.exports=e("./reduceRight")}});

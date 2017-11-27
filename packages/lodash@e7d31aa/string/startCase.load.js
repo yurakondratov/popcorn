@@ -1,0 +1,1 @@
+montageDefine("e7d31aa","string/startCase",{dependencies:["../internal/createCompounder"],factory:function(e,n,r){var t=e("../internal/createCompounder"),a=t(function(e,n,r){return e+(r?" ":"")+(n.charAt(0).toUpperCase()+n.slice(1))});r.exports=a}});

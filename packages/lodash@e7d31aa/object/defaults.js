@@ -1,0 +1,1 @@
+var assign=require("./assign"),assignDefaults=require("../internal/assignDefaults"),restParam=require("../function/restParam"),defaults=restParam(function(s){var a=s[0];return null==a?a:(s.push(assignDefaults),assign.apply(void 0,s))});module.exports=defaults;

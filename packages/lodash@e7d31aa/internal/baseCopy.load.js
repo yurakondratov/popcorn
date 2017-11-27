@@ -1,0 +1,1 @@
+montageDefine("e7d31aa","internal/baseCopy",{dependencies:[],factory:function(e,n,a){function r(e,n,a){a||(a={});for(var r=-1,t=n.length;++r<t;){var o=n[r];a[o]=e[o]}return a}a.exports=r}});

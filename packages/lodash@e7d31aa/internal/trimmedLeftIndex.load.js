@@ -1,0 +1,1 @@
+montageDefine("e7d31aa","internal/trimmedLeftIndex",{dependencies:["./isSpace"],factory:function(e,n,t){function a(e){for(var n=-1,t=e.length;++n<t&&r(e.charCodeAt(n)););return n}var r=e("./isSpace");t.exports=a}});

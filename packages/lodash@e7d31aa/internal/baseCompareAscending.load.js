@@ -1,0 +1,1 @@
+montageDefine("e7d31aa","internal/baseCompareAscending",{dependencies:[],factory:function(e,n,i){function r(e,n){if(e!==n){var i=e===e,r=n===n;if(e>n||!i||void 0===e&&r)return 1;if(e<n||!r||void 0===n&&i)return-1}return 0}i.exports=r}});

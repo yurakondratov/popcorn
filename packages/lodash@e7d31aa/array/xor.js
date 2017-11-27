@@ -1,0 +1,1 @@
+function xor(){for(var e=-1,r=arguments.length;++e<r;){var i=arguments[e];if(isArray(i)||isArguments(i))var n=n?baseDifference(n,i).concat(baseDifference(i,n)):i}return n?baseUniq(n):[]}var baseDifference=require("../internal/baseDifference"),baseUniq=require("../internal/baseUniq"),isArguments=require("../lang/isArguments"),isArray=require("../lang/isArray");module.exports=xor;

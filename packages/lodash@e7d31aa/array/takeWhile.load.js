@@ -1,0 +1,1 @@
+montageDefine("e7d31aa","array/takeWhile",{dependencies:["../internal/baseCallback","../internal/baseWhile"],factory:function(e,a,n){function l(e,a,n){return e&&e.length?i(e,t(a,n,3)):[]}var t=e("../internal/baseCallback"),i=e("../internal/baseWhile");n.exports=l}});

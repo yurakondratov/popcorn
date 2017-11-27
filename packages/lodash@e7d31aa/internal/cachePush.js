@@ -1,0 +1,1 @@
+function cachePush(e){var s=this.data;"string"==typeof e||isObject(e)?s.set.add(e):s.hash[e]=!0}var isObject=require("../lang/isObject");module.exports=cachePush;

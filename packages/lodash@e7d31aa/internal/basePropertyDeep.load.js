@@ -1,0 +1,1 @@
+montageDefine("e7d31aa","internal/basePropertyDeep",{dependencies:["./baseGet","./toPath"],factory:function(e,t,n){function a(e){var t=e+"";return e=o(e),function(n){return r(n,e,t)}}var r=e("./baseGet"),o=e("./toPath");n.exports=a}});

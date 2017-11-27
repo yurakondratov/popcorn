@@ -1,0 +1,1 @@
+montageDefine("e7d31aa","internal/binaryIndexBy",{dependencies:[],factory:function(e,n,a){function r(e,n,a,r){n=a(n);for(var i=0,d=e?e.length:0,v=n!==n,c=void 0===n;i<d;){var h=o((i+d)/2),l=a(e[h]),p=l===l;if(v)var s=p||r;else s=c?p&&(r||void 0!==l):r?l<=n:l<n;s?i=h+1:d=h}return t(d,f)}var o=Math.floor,t=Math.min,i=Math.pow(2,32)-1,f=i-1;a.exports=r}});

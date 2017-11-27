@@ -1,0 +1,1 @@
+var invokePath=require("../internal/invokePath"),restParam=require("../function/restParam"),methodOf=restParam(function(e,r){return function(t){return invokePath(e,t,r)}});module.exports=methodOf;

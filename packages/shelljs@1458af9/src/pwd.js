@@ -1,0 +1,1 @@
+function _pwd(r){var e=path.resolve(process.cwd());return common.ShellString(e)}var path=require("path"),common=require("./common");module.exports=_pwd;

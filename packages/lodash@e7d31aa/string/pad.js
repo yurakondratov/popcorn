@@ -1,0 +1,1 @@
+function pad(e,i,r){e=baseToString(e),i=+i;var a=e.length;if(a>=i||!nativeIsFinite(i))return e;var n=(i-a)/2,t=floor(n),l=ceil(n);return r=createPadding("",l,r),r.slice(0,t)+e+r}var baseToString=require("../internal/baseToString"),createPadding=require("../internal/createPadding"),ceil=Math.ceil,floor=Math.floor,nativeIsFinite=global.isFinite;module.exports=pad;

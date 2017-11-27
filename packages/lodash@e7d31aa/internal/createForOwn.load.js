@@ -1,0 +1,1 @@
+montageDefine("e7d31aa","internal/createForOwn",{dependencies:["./bindCallback"],factory:function(n,e,t){function a(n){return function(e,t,a){return"function"==typeof t&&void 0===a||(t=i(t,a,3)),n(e,t)}}var i=n("./bindCallback");t.exports=a}});

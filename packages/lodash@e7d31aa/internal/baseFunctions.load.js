@@ -1,0 +1,1 @@
+montageDefine("e7d31aa","internal/baseFunctions",{dependencies:["../lang/isFunction"],factory:function(n,e,a){function t(n,e){for(var a=-1,t=e.length,o=-1,r=[];++a<t;){var c=e[a];i(n[c])&&(r[++o]=c)}return r}var i=n("../lang/isFunction");a.exports=t}});

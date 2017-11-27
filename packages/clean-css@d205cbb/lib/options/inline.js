@@ -1,0 +1,1 @@
+function inlineOptionsFrom(n){return Array.isArray(n)?n:n===!1?["none"]:void 0===n?["local"]:n.split(",")}module.exports=inlineOptionsFrom;

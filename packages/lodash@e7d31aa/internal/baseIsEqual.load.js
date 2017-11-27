@@ -1,0 +1,1 @@
+montageDefine("e7d31aa","internal/baseIsEqual",{dependencies:["./baseIsEqualDeep"],factory:function(e,n,t){function a(e,n,t,u,f,r){if(e===n)return 0!==e||1/e==1/n;var c=typeof e,i=typeof n;return"function"!=c&&"object"!=c&&"function"!=i&&"object"!=i||null==e||null==n?e!==e&&n!==n:o(e,n,a,t,u,f,r)}var o=e("./baseIsEqualDeep");t.exports=a}});

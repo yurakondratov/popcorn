@@ -1,0 +1,1 @@
+exports.createFrom=function(e,r){r=r||{};var t={};return Object.getOwnPropertyNames(r).forEach(function(e){t[e]=Object.getOwnPropertyDescriptor(r,e)}),Object.create(e,t)},exports.inheritFrom=function(e,r,t){t=t||{},Object.defineProperty(t,"constructor",{value:r,writable:!0,configurable:!0}),r.prototype=exports.createFrom(e.prototype,t)};

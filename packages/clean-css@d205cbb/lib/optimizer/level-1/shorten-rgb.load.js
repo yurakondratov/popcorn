@@ -1,0 +1,1 @@
+montageDefine("d205cbb","lib/optimizer/level-1/shorten-rgb",{dependencies:[],factory:function(t,e,n){function a(t,e,n){var a=Math.max(0,Math.min(parseInt(t),255)),i=Math.max(0,Math.min(parseInt(e),255)),r=Math.max(0,Math.min(parseInt(n),255));return"#"+("00000"+(a<<16|i<<8|r).toString(16)).slice(-6)}n.exports=a}});

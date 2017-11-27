@@ -1,0 +1,1 @@
+montageDefine("d205cbb","lib/utils/is-data-uri-resource",{dependencies:[],factory:function(e,t,n){function r(e){return a.test(e)}var a=/^data:(\S*?)?(;charset=[^;]+)?(;[^,]+?)?,(.+)/;n.exports=r}});

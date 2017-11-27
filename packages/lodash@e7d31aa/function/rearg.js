@@ -1,0 +1,1 @@
+var baseFlatten=require("../internal/baseFlatten"),createWrapper=require("../internal/createWrapper"),restParam=require("./restParam"),REARG_FLAG=256,rearg=restParam(function(e,r){return createWrapper(e,REARG_FLAG,null,null,null,baseFlatten(r))});module.exports=rearg;

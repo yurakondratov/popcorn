@@ -1,0 +1,1 @@
+montageDefine("1458af9","global",{dependencies:["./shell.js"],factory:function(e,l,a){var n=e("./shell.js");for(var o in n)global[o]=n[o]}});

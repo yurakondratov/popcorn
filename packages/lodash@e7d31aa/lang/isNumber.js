@@ -1,0 +1,1 @@
+function isNumber(e){return"number"==typeof e||isObjectLike(e)&&objToString.call(e)==numberTag}var isObjectLike=require("../internal/isObjectLike"),numberTag="[object Number]",objectProto=Object.prototype,objToString=objectProto.toString;module.exports=isNumber;

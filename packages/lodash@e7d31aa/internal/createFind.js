@@ -1,0 +1,1 @@
+function createFind(e,r){return function(a,i,n){if(i=baseCallback(i,n,3),isArray(a)){var d=baseFindIndex(a,i,r);return d>-1?a[d]:void 0}return baseFind(a,i,e)}}var baseCallback=require("./baseCallback"),baseFind=require("./baseFind"),baseFindIndex=require("./baseFindIndex"),isArray=require("../lang/isArray");module.exports=createFind;

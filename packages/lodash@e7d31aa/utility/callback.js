@@ -1,0 +1,1 @@
+function callback(a,e,l){return l&&isIterateeCall(a,e,l)&&(e=null),baseCallback(a,e)}var baseCallback=require("../internal/baseCallback"),isIterateeCall=require("../internal/isIterateeCall");module.exports=callback;

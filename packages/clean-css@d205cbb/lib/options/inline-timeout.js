@@ -1,0 +1,1 @@
+function inlineTimeoutFrom(e){return e||DEFAULT_TIMEOUT}var DEFAULT_TIMEOUT=5e3;module.exports=inlineTimeoutFrom;

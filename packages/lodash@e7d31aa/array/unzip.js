@@ -1,0 +1,1 @@
+function unzip(r){for(var a=-1,e=(r&&r.length&&arrayMax(arrayMap(r,getLength)))>>>0,n=Array(e);++a<e;)n[a]=arrayMap(r,baseProperty(a));return n}var arrayMap=require("../internal/arrayMap"),arrayMax=require("../internal/arrayMax"),baseProperty=require("../internal/baseProperty"),getLength=require("../internal/getLength");module.exports=unzip;

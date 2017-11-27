@@ -1,0 +1,1 @@
+montageDefine("e7d31aa","internal/metaMap",{dependencies:["../lang/isNative"],factory:function(a,e,n){var i=a("../lang/isNative"),t=i(t=global.WeakMap)&&t,l=t&&new t;n.exports=l}});

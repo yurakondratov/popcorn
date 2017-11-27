@@ -1,0 +1,1 @@
+function pluck(r,p){return map(r,property(p))}var map=require("./map"),property=require("../utility/property");module.exports=pluck;

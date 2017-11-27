@@ -1,0 +1,1 @@
+function createFindIndex(e){return function(n,a,r){return n&&n.length?(a=baseCallback(a,r,3),baseFindIndex(n,a,e)):-1}}var baseCallback=require("./baseCallback"),baseFindIndex=require("./baseFindIndex");module.exports=createFindIndex;

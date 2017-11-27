@@ -1,0 +1,1 @@
+var argv=require("optimist").usage("Count the lines in a file.\nUsage: $0").demand("f").alias("f","file").describe("f","Load a file").argv,fs=require("fs"),s=fs.createReadStream(argv.file),lines=0;s.on("data",function(e){lines+=e.toString().match(/\n/g).length}),s.on("end",function(){console.log(lines)});

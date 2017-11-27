@@ -1,0 +1,1 @@
+montageDefine("d205cbb","lib/optimizer/level-2/properties/understandable",{dependencies:["./vendor-prefixes"],factory:function(e,r,i){function n(e,r,i,n,o){return!!a(r,i)&&(!o||e.isVariable(r)===e.isVariable(i))}var a=e("./vendor-prefixes").same;i.exports=n}});

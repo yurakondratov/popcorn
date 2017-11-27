@@ -1,0 +1,1 @@
+var isNative=require("../lang/isNative"),nativeNow=isNative(nativeNow=Date.now)&&nativeNow,now=nativeNow||function(){return(new Date).getTime()};module.exports=now;

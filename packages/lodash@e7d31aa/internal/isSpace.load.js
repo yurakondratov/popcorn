@@ -1,0 +1,1 @@
+montageDefine("e7d31aa","internal/isSpace",{dependencies:[],factory:function(e,n,t){function a(e){return e<=160&&e>=9&&e<=13||32==e||160==e||5760==e||6158==e||e>=8192&&(e<=8202||8232==e||8233==e||8239==e||8287==e||12288==e||65279==e)}t.exports=a}});

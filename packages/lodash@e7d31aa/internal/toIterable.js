@@ -1,0 +1,1 @@
+function toIterable(e){return null==e?[]:isLength(getLength(e))?isObject(e)?e:Object(e):values(e)}var getLength=require("./getLength"),isLength=require("./isLength"),isObject=require("../lang/isObject"),values=require("../object/values");module.exports=toIterable;

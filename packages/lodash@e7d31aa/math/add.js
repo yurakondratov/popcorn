@@ -1,0 +1,1 @@
+function add(d,e){return(+d||0)+(+e||0)}module.exports=add;

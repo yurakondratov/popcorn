@@ -1,0 +1,1 @@
+montageDefine("e7d31aa","object/pairs",{dependencies:["./keys"],factory:function(e,r,n){function a(e){for(var r=-1,n=t(e),a=n.length,o=Array(a);++r<a;){var c=n[r];o[r]=[c,e[c]]}return o}var t=e("./keys");n.exports=a}});

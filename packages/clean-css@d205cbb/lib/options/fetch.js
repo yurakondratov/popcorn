@@ -1,0 +1,1 @@
+function fetchFrom(e){return e||loadRemoteResource}var loadRemoteResource=require("../reader/load-remote-resource");module.exports=fetchFrom;

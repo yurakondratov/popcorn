@@ -1,0 +1,1 @@
+var cli=require("cli"),output_file=function(i){cli.withInput(i,function(i,t,l){l?cli.args.length&&output_file(cli.args.shift()):cli.output(i+t)})};cli.args.length&&output_file(cli.args.shift());

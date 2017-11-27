@@ -1,0 +1,1 @@
+var isNative=require("./isNative"),nativeIsFinite=global.isFinite,nativeNumIsFinite=isNative(nativeNumIsFinite=Number.isFinite)&&nativeNumIsFinite,isFinite=nativeNumIsFinite||function(i){return"number"==typeof i&&nativeIsFinite(i)};module.exports=isFinite;

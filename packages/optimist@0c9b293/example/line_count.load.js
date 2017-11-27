@@ -1,0 +1,1 @@
+montageDefine("0c9b293","example/line_count",{dependencies:["optimist","fs"],factory:function(e,n,a){var i=e("optimist").usage("Count the lines in a file.\nUsage: $0").demand("f").alias("f","file").describe("f","Load a file").argv,t=e("fs"),o=t.createReadStream(i.file),f=0;o.on("data",function(e){f+=e.toString().match(/\n/g).length}),o.on("end",function(){console.log(f)})}});

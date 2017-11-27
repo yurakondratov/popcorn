@@ -1,0 +1,1 @@
+function matchDataUri(a){return DATA_URI_PATTERN.exec(a)}var DATA_URI_PATTERN=/^data:(\S*?)?(;charset=[^;]+)?(;[^,]+?)?,(.+)/;module.exports=matchDataUri;

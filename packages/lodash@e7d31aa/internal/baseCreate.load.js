@@ -1,0 +1,1 @@
+montageDefine("e7d31aa","internal/baseCreate",{dependencies:["../lang/isObject"],factory:function(e,n,t){var a=e("../lang/isObject"),o=function(){function e(){}return function(n){if(a(n)){e.prototype=n;var t=new e;e.prototype=null}return t||global.Object()}}();t.exports=o}});

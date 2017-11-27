@@ -1,0 +1,1 @@
+montageDefine("a2cd6d4","index",{dependencies:[],factory:function(e,n,t){"use strict";t.exports=function(e,n){if("string"!=typeof e)throw new TypeError("Expected a string");return n="undefined"==typeof n?"_":n,e.replace(/([a-z\d])([A-Z])/g,"$1"+n+"$2").replace(/([A-Z]+)([A-Z][a-z\d]+)/g,"$1"+n+"$2").toLowerCase()}}});

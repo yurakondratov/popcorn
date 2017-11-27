@@ -1,0 +1,1 @@
+montageDefine("d5595d8","seed",{dependencies:["./index"],factory:function(e,n,r){function t(e){function n(){return e+(d()-r)}var r=d();return n}var d=e("./index");r.exports=t}});

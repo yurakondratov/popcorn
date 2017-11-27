@@ -1,0 +1,1 @@
+function rebaseLocalMap(e,a,r){var t=path.resolve(""),o=path.resolve(t,a),p=path.dirname(o);return e.sources=e.sources.map(function(e){return path.relative(r,path.resolve(p,e))}),e}var path=require("path");module.exports=rebaseLocalMap;

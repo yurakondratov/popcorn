@@ -1,0 +1,1 @@
+montageDefine("e7d31aa","lang/isBoolean",{dependencies:["../internal/isObjectLike"],factory:function(e,n,t){function o(e){return e===!0||e===!1||i(e)&&r.call(e)==a}var i=e("../internal/isObjectLike"),a="[object Boolean]",c=Object.prototype,r=c.toString;t.exports=o}});

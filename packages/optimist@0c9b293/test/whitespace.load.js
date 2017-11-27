@@ -1,0 +1,1 @@
+montageDefine("0c9b293","test/whitespace",{dependencies:["../","tap"],factory:function(e,t,a){var n=e("../"),c=e("tap").test;c("whitespace should be whitespace",function(e){e.plan(1);var t=n.parse(["-x","\t"]).x;e.equal(t,"\t")})}});

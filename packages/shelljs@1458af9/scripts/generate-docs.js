@@ -1,0 +1,1 @@
+require("../global"),echo("Appending docs to README.md"),cd(__dirname+"/..");var docs=grep("//@","shell.js");docs=docs.replace(/\/\/\@include (.+)/g,function(e,c){var d=c.match(".js$")?c:c+".js";return grep("//@",d)}),docs=docs.replace(/\/\/\@ ?/g,""),sed("-i",/## Command reference(.|\n)*/,"## Command reference\n\n"+docs,"README.md"),echo("All done.");

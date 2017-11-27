@@ -1,0 +1,1 @@
+montageDefine("e7d31aa","internal/getView",{dependencies:[],factory:function(e,a,t){function r(e,a,t){for(var r=-1,c=t?t.length:0;++r<c;){var s=t[r],o=s.size;switch(s.type){case"drop":e+=o;break;case"dropRight":a-=o;break;case"take":a=i(a,e+o);break;case"takeRight":e=n(e,a-o)}}return{start:e,end:a}}var n=Math.max,i=Math.min;t.exports=r}});

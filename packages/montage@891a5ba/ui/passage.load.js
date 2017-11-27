@@ -1,1 +1,0 @@
-montageDefine("891a5ba","ui/passage",{dependencies:["core/core"],factory:function(a,e,s){"use strict";var l=a("core/core").Montage;e.Passage=l.specialize({source:{value:null},destination:{value:null},buildInCssClass:{value:void 0},buildInTransitionCssClass:{value:void 0},buildOutCssClass:{value:void 0},sourceData:{value:null},destinationData:{value:null}})}});

@@ -1,0 +1,1 @@
+function baseForOwnRight(e,r){return baseForRight(e,r,keys)}var baseForRight=require("./baseForRight"),keys=require("../object/keys");module.exports=baseForOwnRight;

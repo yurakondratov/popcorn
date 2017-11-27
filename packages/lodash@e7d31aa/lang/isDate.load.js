@@ -1,0 +1,1 @@
+montageDefine("e7d31aa","lang/isDate",{dependencies:["../internal/isObjectLike"],factory:function(e,t,n){function i(e){return a(e)&&r.call(e)==c}var a=e("../internal/isObjectLike"),c="[object Date]",o=Object.prototype,r=o.toString;n.exports=i}});

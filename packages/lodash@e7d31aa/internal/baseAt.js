@@ -1,0 +1,1 @@
+function baseAt(e,r){for(var n=-1,i=e.length,t=isLength(i),s=r.length,a=Array(s);++n<s;){var d=r[n];t?a[n]=isIndex(d,i)?e[d]:void 0:a[n]=e[d]}return a}var isIndex=require("./isIndex"),isLength=require("./isLength");module.exports=baseAt;

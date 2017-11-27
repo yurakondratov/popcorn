@@ -1,0 +1,1 @@
+function indexOf(e,n,r){var a=e?e.length:0;if(!a)return-1;if("number"==typeof r)r=r<0?nativeMax(a+r,0):r;else if(r){var i=binaryIndex(e,n),t=e[i];return(n===n?n===t:t!==t)?i:-1}return baseIndexOf(e,n,r||0)}var baseIndexOf=require("../internal/baseIndexOf"),binaryIndex=require("../internal/binaryIndex"),nativeMax=Math.max;module.exports=indexOf;

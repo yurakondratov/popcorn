@@ -1,0 +1,1 @@
+function normalizePath(A){return A.replace(WINDOWS_SEPARATOR_PATTERN,UNIX_SEPARATOR)}var UNIX_SEPARATOR="/",WINDOWS_SEPARATOR_PATTERN=/\\/g;module.exports=normalizePath;

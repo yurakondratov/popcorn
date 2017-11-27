@@ -1,0 +1,1 @@
+function isImport(t){return IMPORT_PREFIX_PATTERN.test(t)}var IMPORT_PREFIX_PATTERN=/^@import/i;module.exports=isImport;

@@ -1,0 +1,1 @@
+montageDefine("e7d31aa","internal/baseDelay",{dependencies:[],factory:function(e,n,t){function o(e,n,t){if("function"!=typeof e)throw new TypeError(i);return setTimeout(function(){e.apply(void 0,t)},n)}var i="Expected a function";t.exports=o}});

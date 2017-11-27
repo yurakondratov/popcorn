@@ -1,0 +1,1 @@
+function pull(){var r=arguments,e=r[0];if(!e||!e.length)return e;for(var a=0,l=baseIndexOf,n=r.length;++a<n;)for(var o=0,t=r[a];(o=l(e,t,o))>-1;)splice.call(e,o,1);return e}var baseIndexOf=require("../internal/baseIndexOf"),arrayProto=Array.prototype,splice=arrayProto.splice;module.exports=pull;

@@ -1,0 +1,1 @@
+var assignWith=require("../internal/assignWith"),baseAssign=require("../internal/baseAssign"),createAssigner=require("../internal/createAssigner"),assign=createAssigner(function(s,e,i){return i?assignWith(s,e,i):baseAssign(s,e)});module.exports=assign;

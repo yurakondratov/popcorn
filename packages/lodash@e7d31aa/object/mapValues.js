@@ -1,0 +1,1 @@
+function mapValues(a,e,r){var n={};return e=baseCallback(e,r,3),baseForOwn(a,function(a,r,l){n[r]=e(a,r,l)}),n}var baseCallback=require("../internal/baseCallback"),baseForOwn=require("../internal/baseForOwn");module.exports=mapValues;

@@ -1,0 +1,1 @@
+function wrapperPlant(r){for(var e,a=this;a instanceof baseLodash;){var p=wrapperClone(a);e?n.__wrapped__=p:e=p;var n=p;a=a.__wrapped__}return n.__wrapped__=r,e}var baseLodash=require("../internal/baseLodash"),wrapperClone=require("../internal/wrapperClone");module.exports=wrapperPlant;

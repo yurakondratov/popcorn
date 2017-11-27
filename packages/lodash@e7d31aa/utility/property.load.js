@@ -1,0 +1,1 @@
+montageDefine("e7d31aa","utility/property",{dependencies:["../internal/baseProperty","../internal/basePropertyDeep","../internal/isKey"],factory:function(e,n,r){function t(e){return o(e)?a(e):i(e)}var a=e("../internal/baseProperty"),i=e("../internal/basePropertyDeep"),o=e("../internal/isKey");r.exports=t}});

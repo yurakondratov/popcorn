@@ -1,0 +1,1 @@
+montageDefine("fc77de5","examples/glob",{dependencies:["cli"],factory:function(e,l,n){var o=e("cli").enable("glob");console.log(o.args)}});

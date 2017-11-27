@@ -1,0 +1,1 @@
+montageDefine("514a8a9","lib/util/path",{dependencies:[],factory:function(n,e,t){"use strict";function i(n){return n.length>0?n.join("/")+"/":""}function o(n){var e=[];return n.forEach(function(n){".."!==n?"."!==n&&e.push(n):e.length>0&&e.splice(e.length-1,1)}),e}t.exports={join:i,resolveDotSegments:o}}});
