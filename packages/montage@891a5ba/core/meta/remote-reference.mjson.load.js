@@ -1,0 +1,1 @@
+montageDefine("891a5ba","core/meta/remote-reference.mjson",{exports:{root:{prototype:"core/meta/object-descriptor",values:{name:"RemoteReference",objectDescriptorModuleId:"core/meta/remote-reference.mjson",prototypeName:"RemoteReference",customPrototype:!1}}}});

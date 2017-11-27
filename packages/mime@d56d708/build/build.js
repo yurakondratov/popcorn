@@ -1,1 +1,0 @@
-var db=require("mime-db"),mapByType={};Object.keys(db).forEach(function(e){var y=db[e].extensions;y&&(mapByType[e]=y)}),console.log(JSON.stringify(mapByType));

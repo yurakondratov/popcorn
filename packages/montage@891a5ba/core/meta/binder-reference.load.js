@@ -1,0 +1,1 @@
+montageDefine("891a5ba","core/meta/binder-reference",{dependencies:["./model-reference"],factory:function(e,n,r){n.BinderReference=e("./model-reference").ModelReference}});

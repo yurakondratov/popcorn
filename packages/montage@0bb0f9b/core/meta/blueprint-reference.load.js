@@ -1,1 +1,0 @@
-montageDefine("0bb0f9b","core/meta/blueprint-reference",{dependencies:["./object-descriptor-reference"],factory:function(e,r,c){r.BlueprintReference=e("./object-descriptor-reference").ObjectDescriptorReference}});

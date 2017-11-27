@@ -1,1 +1,0 @@
-montageDefine("0bb0f9b","core/meta/module-blueprint",{dependencies:["./module-object-descriptor"],factory:function(e,o,t){o.ModuleBlueprint=e("./module-object-descriptor").ModuleObjectDescriptor}});

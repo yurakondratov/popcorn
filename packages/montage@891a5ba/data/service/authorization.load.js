@@ -1,0 +1,1 @@
+montageDefine("891a5ba","data/service/authorization",{dependencies:["core/core"],factory:function(e,a,o){var i=e("core/core").Montage;a.Authorization=i.specialize({})}});

@@ -1,1 +1,0 @@
-montageDefine("0bb0f9b","core/selector",{dependencies:["./criteria"],factory:function(e,r,i){var c=e("./criteria").Criteria;r.Selector=c}});
