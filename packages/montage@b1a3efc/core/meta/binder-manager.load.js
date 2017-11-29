@@ -1,1 +1,0 @@
-montageDefine("b1a3efc","core/meta/binder-manager",{dependencies:["./model-group"],factory:function(e,n,o){n.BinderManager=e("./model-group").ModelGroup}});

@@ -1,6 +1,8 @@
 CACHE MANIFEST
 #version 1.0.0
-#hash f2b6e3sad
+#hash a7936d4
+LICENSE.md
+README.md
 assets/icons/apple-touch-icon-120x120-precomposed.png
 assets/icons/apple-touch-icon-152x152-precomposed.png
 assets/icons/apple-touch-icon-76x76-precomposed.png

@@ -1,1 +1,0 @@
-montageDefine("518be11","ender",{dependencies:["moment"],factory:function(e,n,m){$.ender({moment:e("moment")})}});

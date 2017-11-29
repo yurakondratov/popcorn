@@ -1,1 +1,0 @@
-montageDefine("b1a3efc","data/service/authorization",{dependencies:["core/core"],factory:function(e,o,a){var c=e("core/core").Montage;o.Authorization=c.specialize({})}});
