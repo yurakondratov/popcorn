@@ -1,1 +1,0 @@
-montageDefine("e3d1601","ui/image.reel/image.html",{"text":"<!DOCTYPE html><html manifest=../../../../manifest.appcache><head><title></title><script type=text/montage-serialization>{\"owner\":{\"properties\":{\"element\":{\"#\":\"image\"}}}}</script></head><body><img data-montage-id=image class=digit-Image></body></html>"})

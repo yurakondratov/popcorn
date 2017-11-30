@@ -1,0 +1,1 @@
+montageDefine("79d2794","ui/authorization-panel.reel/authorization-panel.html",{"text":"<!DOCTYPE html><html manifest=../../../../manifest.appcache><head><title></title><script type=text/montage-serialization>{\"owner\":{\"values\":{\"element\":{\"#\":\"owner\"}}}}</script></head><body><div data-montage-id=owner></div></body></html>"})
