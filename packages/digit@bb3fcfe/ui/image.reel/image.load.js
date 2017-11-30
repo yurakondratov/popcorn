@@ -1,1 +1,0 @@
-montageDefine("bb3fcfe","ui/image.reel/image",{dependencies:["montage/ui/base/abstract-image"],factory:function(e,a,i){var t=e("montage/ui/base/abstract-image").AbstractImage;a.Image=t.specialize({})}});

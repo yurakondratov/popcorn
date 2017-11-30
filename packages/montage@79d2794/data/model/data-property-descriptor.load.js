@@ -1,1 +1,0 @@
-montageDefine("79d2794","data/model/data-property-descriptor",{dependencies:["data/model/property-descriptor"],factory:function(e,r,t){var o=e("data/model/property-descriptor").PropertyDescriptor;r.DataPropertyDescriptor=o.specialize({isGlobal:{value:!1}})}});
