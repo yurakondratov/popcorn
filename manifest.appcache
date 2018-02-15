@@ -3,6 +3,7 @@ CACHE MANIFEST
 #hash 39f037b
 
 CACHE:
+./
 assets/icons/apple-touch-icon-120x120-precomposed.png
 assets/icons/apple-touch-icon-152x152-precomposed.png
 assets/icons/apple-touch-icon-76x76-precomposed.png
@@ -19,7 +20,6 @@ index.html.bundle-1-0.js
 cache-worker.js
 cache-worker.load.js
 favicon.ico
-/
 index.html.load.js
 locale/en/messages.json.load.js
 locale/fr/messages.json.load.js
