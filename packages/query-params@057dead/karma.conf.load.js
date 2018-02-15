@@ -1,0 +1,1 @@
+montageDefine("057dead","karma.conf",{dependencies:[],factory:function(e,s,r){r.exports=function(e){e.set({basePath:"",frameworks:["jasmine","browserify"],plugins:["karma-*"],files:["*.js"],preprocessors:{"*.js":["browserify"]},browsers:["PhantomJS"],singleRun:!0,browserify:{watch:!1}})}}});

@@ -1,0 +1,1 @@
+montageDefine("f988740","writable",{dependencies:["./lib/_stream_writable.js"],factory:function(e,t,i){i.exports=e("./lib/_stream_writable.js")}});

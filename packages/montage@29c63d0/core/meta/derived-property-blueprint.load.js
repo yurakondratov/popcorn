@@ -1,1 +1,0 @@
-montageDefine("29c63d0","core/meta/derived-property-blueprint",{dependencies:["./derived-descriptor"],factory:function(e,r,d){r.DerivedPropertyBlueprint=e("./derived-descriptor").DerivedDescriptor}});

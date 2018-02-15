@@ -1,1 +1,0 @@
-montageDefine("ee896a8","test/fixtures/hello.json",{exports:{hello:"world",answer:42}});

@@ -1,1 +1,0 @@
-montageDefine("29c63d0","data/service/authorization-service",{dependencies:["data/service/data-service"],factory:function(e,a,i){var t=e("data/service/data-service").DataService;a.AuthorizationService=t.specialize({constructor:{value:function(){console.warn("AuthorizationService is deprecated. The Authorization API was moved to DataService"),t.call(this)}}})}});

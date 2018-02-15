@@ -1,1 +1,0 @@
-montageDefine("29c63d0","ui/date-field.reel/date-field",{dependencies:["ui/text-input"],factory:function(e,t,i){var l=e("ui/text-input").TextInput,n=t.DateField=l.specialize({hasTemplate:{value:!1}});n.addAttributes({max:null,min:null,step:null})}});

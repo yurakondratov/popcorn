@@ -1,0 +1,1 @@
+montageDefine("b4c27ac","data/service/data-provider",{dependencies:["core/core","core/promise"],factory:function(e,a,r){var o=e("core/core").Montage,c=e("core/promise").Promise;a.DataProvider=o.specialize({data:{value:void 0},requestData:{value:function(e,a){return c.resolve(this.data)}}})}});

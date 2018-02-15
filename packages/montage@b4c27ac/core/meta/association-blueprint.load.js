@@ -1,0 +1,1 @@
+montageDefine("b4c27ac","core/meta/association-blueprint",{dependencies:["./property-descriptor"],factory:function(e,r,o){r.AssociationBlueprint=e("./property-descriptor").PropertyDescriptor}});
